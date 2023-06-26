@@ -1,0 +1,216 @@
+﻿using System;
+using touching_your_mom;
+using UnityEngine;
+
+namespace MegaWorld
+{
+	// Token: 0x02000620 RID: 1568
+	[Token(Token = "0x2000620")]
+	[Serializable]
+	public class TerrainTexture
+	{
+		// Token: 0x06010C1E RID: 68638 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C1E")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0306\u0305\u0304\u0302\u0304\u0302\u0301\u0301\u0303\u0306\u0308\u0304\u0305\u0302\u0305(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C1F RID: 68639 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C1F")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0308\u0308\u0302\u0304\u0302\u0306\u0307\u0301\u0306\u0307\u0301\u0301\u0307\u0306\u0302(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C20 RID: 68640 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C20")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0308\u0303\u0302\u0302\u0303\u0301\u0301\u0301\u0302\u0307\u0304\u0301\u0301\u0307\u0306(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C21 RID: 68641 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C21")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0305\u0304\u0306\u0305\u0305\u0308\u0303\u0302\u0303\u0308\u0308\u0301\u0305\u0305\u0302(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C22 RID: 68642 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C22")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0306\u0308\u0307\u0308\u0305\u0308\u0306\u0301\u0304\u0301\u0308\u0301\u0302\u0305\u0307(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C23 RID: 68643 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C23")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0301\u0307\u0303\u0308\u0305\u0307\u0306\u0302\u0307\u0303\u0304\u0308\u0304\u0304\u0304(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C24 RID: 68644 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C24")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0304\u0301\u0307\u0306\u0306\u0303\u0301\u0302\u0304\u0307\u0302\u0301\u0308\u0307\u0308(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C25 RID: 68645 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C25")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0306\u0301\u0306\u0308\u0303\u0305\u0305\u0307\u0307\u0305\u0306\u0304\u0305\u0305\u0301(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C26 RID: 68646 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C26")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0302\u0307\u0307\u0308\u0302\u0306\u0302\u0307\u0307\u0307\u0303\u0306\u0308\u0304\u0305(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C27 RID: 68647 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C27")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0306\u0302\u0304\u0302\u0308\u0306\u0304\u0306\u0305\u0307\u0303\u0302\u0305\u0303\u0304(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C28 RID: 68648 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C28")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0306\u0301\u0308\u0301\u0304\u0303\u0304\u0302\u0306\u0303\u0307\u0303\u0307\u0303\u0308(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C29 RID: 68649 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C29")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0304\u0308\u0301\u0302\u0307\u0302\u0306\u0302\u0306\u0306\u0305\u0302\u0305\u0301\u0304(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C2A RID: 68650 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C2A")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0303\u0301\u0304\u0306\u0306\u0308\u0304\u0304\u0308\u0301\u0302\u0308\u0306\u0308\u0301(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C2B RID: 68651 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C2B")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0304\u0307\u0306\u0305\u0303\u0303\u0301\u0303\u0308\u0301\u0302\u0302\u0302\u0304\u0302(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C2C RID: 68652 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C2C")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0307\u0301\u0303\u0307\u0307\u0308\u0301\u0306\u0304\u0302\u0306\u0308\u0306\u0304\u0305(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C2D RID: 68653 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C2D")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0308\u0301\u0302\u0307\u0308\u0306\u0307\u0306\u0304\u0306\u0307\u0305\u0301\u0301\u0306(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C2E RID: 68654 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C2E")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0304\u0302\u0305\u0306\u0302\u0303\u0307\u0301\u0301\u0306\u0303\u0301\u0303\u0308\u0305(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C2F RID: 68655 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C2F")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0303\u0301\u0308\u0301\u0304\u0305\u0305\u0303\u0308\u0307\u0308\u0302\u0302\u0304\u0301(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C30 RID: 68656 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C30")]
+		[Address(RVA = "0x8A9040", Offset = "0x8A8440", VA = "0x1808A9040")]
+		public TerrainTexture()
+		{
+		}
+
+		// Token: 0x06010C31 RID: 68657 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C31")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0307\u0301\u0301\u0307\u0303\u0306\u0304\u0301\u0302\u0303\u0306\u0301\u0306\u0306\u0307(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C32 RID: 68658 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C32")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0304\u0305\u0306\u0301\u0303\u0306\u0302\u0307\u0304\u0304\u0305\u0302\u0308\u0304\u0303(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C33 RID: 68659 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C33")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0307\u0308\u0308\u0302\u0302\u0303\u0307\u0305\u0301\u0308\u0304\u0304\u0303\u0308\u0302(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C34 RID: 68660 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C34")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0305\u0302\u0301\u0303\u0305\u0306\u0301\u0308\u0304\u0301\u0302\u0307\u0307\u0303\u0306(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C35 RID: 68661 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C35")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0307\u0306\u0301\u0307\u0304\u0302\u0304\u0307\u0302\u0308\u0305\u0302\u0307\u0307\u0308(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C36 RID: 68662 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C36")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0307\u0303\u0303\u0308\u0303\u0305\u0302\u0307\u0305\u0302\u0303\u0304\u0308\u0306\u0303(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C37 RID: 68663 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C37")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0307\u0307\u0303\u0301\u0306\u0302\u0305\u0305\u0302\u0306\u0305\u0308\u0308\u0303\u0308(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x06010C38 RID: 68664 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6010C38")]
+		[Address(RVA = "0x2A86510", Offset = "0x2A85910", VA = "0x182A86510")]
+		public void \u0307\u0307\u0306\u0304\u0301\u0308\u0301\u0307\u0306\u0303\u0308\u0304\u0305\u0306\u0301(TerrainTexture \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x04002D8D RID: 11661
+		[Token(Token = "0x4002D8D")]
+		[FieldOffset(Offset = "0x10")]
+		public Texture2D texture;
+
+		// Token: 0x04002D8E RID: 11662
+		[Token(Token = "0x4002D8E")]
+		[FieldOffset(Offset = "0x18")]
+		public int terrainProtoId;
+
+		// Token: 0x04002D8F RID: 11663
+		[Token(Token = "0x4002D8F")]
+		[FieldOffset(Offset = "0x1C")]
+		public bool selected;
+	}
+}

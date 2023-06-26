@@ -1,0 +1,622 @@
+﻿using System;
+using touching_your_mom;
+
+namespace Character.Wearable
+{
+	// Token: 0x02000660 RID: 1632
+	[Token(Token = "0x2000660")]
+	public class WearableChest : Wearable
+	{
+		// Token: 0x0601183B RID: 71739 RVA: 0x00069BE4 File Offset: 0x00067DE4
+		[Token(Token = "0x601183B")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "4")]
+		public override bool \u0301\u0307\u0307\u0305\u0303\u0307\u0308\u0303\u0304\u0304\u0306\u0307\u0301\u0306\u0307()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x0601183C RID: 71740 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601183C")]
+		[Address(RVA = "0x3726580", Offset = "0x3725980", VA = "0x183726580")]
+		public new static WearableChest \u0301\u0303\u0308\u0304\u0302\u0303\u0308\u0307\u0306\u0307\u0307\u0305\u0305\u0306\u0302(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601183D RID: 71741 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601183D")]
+		[Address(RVA = "0x37270C0", Offset = "0x37264C0", VA = "0x1837270C0")]
+		public static WearableChest \u0306\u0301\u0301\u0307\u0306\u0304\u0308\u0305\u0302\u0303\u0306\u0306\u0301\u0307\u0307(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601183E RID: 71742 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601183E")]
+		[Address(RVA = "0x3726720", Offset = "0x3725B20", VA = "0x183726720")]
+		public static WearableChest \u0301\u0306\u0308\u0301\u0307\u0307\u0302\u0301\u0303\u0306\u0301\u0304\u0302\u0301\u0308(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601183F RID: 71743 RVA: 0x00069BFC File Offset: 0x00067DFC
+		[Token(Token = "0x601183F")]
+		[Address(RVA = "0x3727360", Offset = "0x3726760", VA = "0x183727360", Slot = "9")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0306\u0303\u0301\u0305\u0308\u0308\u0305\u0301\u0307\u0306\u0302\u0308\u0304\u0303\u0304()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011840 RID: 71744 RVA: 0x00069C14 File Offset: 0x00067E14
+		[Token(Token = "0x6011840")]
+		[Address(RVA = "0x37277B0", Offset = "0x3726BB0", VA = "0x1837277B0", Slot = "10")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0307\u0304\u0303\u0302\u0305\u0306\u0307\u0303\u0301\u0303\u0308\u0303\u0305\u0306\u0302()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011841 RID: 71745 RVA: 0x00069C2C File Offset: 0x00067E2C
+		[Token(Token = "0x6011841")]
+		[Address(RVA = "0x1E664C0", Offset = "0x1E658C0", VA = "0x181E664C0", Slot = "11")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0303\u0304\u0305\u0305\u0303\u0308\u0304\u0306\u0303\u0307\u0301\u0308\u0302\u0305\u0303()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011842 RID: 71746 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011842")]
+		[Address(RVA = "0x3726FE0", Offset = "0x37263E0", VA = "0x183726FE0")]
+		public static WearableChest \u0305\u0308\u0306\u0305\u0304\u0304\u0308\u0302\u0303\u0307\u0306\u0306\u0307\u0301\u0305(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011843 RID: 71747 RVA: 0x00069C44 File Offset: 0x00067E44
+		[Token(Token = "0x6011843")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "12")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0308\u0301\u0306\u0305\u0304\u0303\u0307\u0302\u0303\u0302\u0308\u0304\u0305\u0303\u0304()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011844 RID: 71748 RVA: 0x00069C5C File Offset: 0x00067E5C
+		[Token(Token = "0x6011844")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "13")]
+		public virtual bool \u0308\u0308\u0308\u0308\u0303\u0301\u0307\u0306\u0307\u0301\u0301\u0304\u0308\u0303\u0301()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011845 RID: 71749 RVA: 0x00069C74 File Offset: 0x00067E74
+		[Token(Token = "0x6011845")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "14")]
+		public virtual bool \u0308\u0308\u0301\u0308\u0303\u0305\u0302\u0307\u0308\u0308\u0301\u0302\u0304\u0305\u0301()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011846 RID: 71750 RVA: 0x00069C8C File Offset: 0x00067E8C
+		[Token(Token = "0x6011846")]
+		[Address(RVA = "0x3726E00", Offset = "0x3726200", VA = "0x183726E00", Slot = "15")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0303\u0307\u0302\u0303\u0303\u0305\u0307\u0307\u0307\u0305\u0303\u0303\u0307\u0305\u0306()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011847 RID: 71751 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011847")]
+		[Address(RVA = "0x37277C0", Offset = "0x3726BC0", VA = "0x1837277C0")]
+		public static WearableChest \u0307\u0305\u0306\u0302\u0307\u0305\u0305\u0302\u0308\u0302\u0301\u0307\u0307\u0304\u0307(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011848 RID: 71752 RVA: 0x00069CA4 File Offset: 0x00067EA4
+		[Token(Token = "0x6011848")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "16")]
+		public virtual bool \u0302\u0306\u0301\u0304\u0301\u0307\u0303\u0307\u0307\u0305\u0301\u0303\u0301\u0303\u0302()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011849 RID: 71753 RVA: 0x00069CBC File Offset: 0x00067EBC
+		[Token(Token = "0x6011849")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "17")]
+		public virtual bool \u0302\u0308\u0304\u0302\u0302\u0307\u0302\u0308\u0308\u0307\u0301\u0302\u0308\u0305\u0304()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x0601184A RID: 71754 RVA: 0x00069CD4 File Offset: 0x00067ED4
+		[Token(Token = "0x601184A")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "18")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0301\u0304\u0307\u0306\u0301\u0305\u0306\u0302\u0306\u0308\u0305\u0305\u0307\u0303\u0304()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601184B RID: 71755 RVA: 0x00069CEC File Offset: 0x00067EEC
+		[Token(Token = "0x601184B")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "19")]
+		public virtual bool \u0308\u0306\u0305\u0307\u0301\u0308\u0304\u0304\u0301\u0305\u0305\u0308\u0308\u0307\u0308()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x0601184C RID: 71756 RVA: 0x00069D04 File Offset: 0x00067F04
+		[Token(Token = "0x601184C")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "20")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0305\u0308\u0301\u0303\u0303\u0308\u0302\u0304\u0306\u0305\u0302\u0308\u0301\u0307\u0307()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601184D RID: 71757 RVA: 0x00069D1C File Offset: 0x00067F1C
+		[Token(Token = "0x601184D")]
+		[Address(RVA = "0x25F66D0", Offset = "0x25F5AD0", VA = "0x1825F66D0", Slot = "21")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0307\u0301\u0302\u0307\u0302\u0305\u0304\u0301\u0303\u0305\u0302\u0308\u0301\u0307\u0301()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x0601184E RID: 71758 RVA: 0x00069D34 File Offset: 0x00067F34
+		[Token(Token = "0x601184E")]
+		[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "22")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0305\u0306\u0304\u0304\u0305\u0303\u0304\u0308\u0303\u0308\u0307\u0303\u0307\u0302\u0308()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601184F RID: 71759 RVA: 0x00069D4C File Offset: 0x00067F4C
+		[Token(Token = "0x601184F")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "23")]
+		public virtual bool \u0308\u0301\u0307\u0308\u0308\u0306\u0302\u0303\u0304\u0306\u0304\u0305\u0305\u0305\u0305()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011850 RID: 71760 RVA: 0x00069D64 File Offset: 0x00067F64
+		[Token(Token = "0x6011850")]
+		[Address(RVA = "0x1E66040", Offset = "0x1E65440", VA = "0x181E66040", Slot = "24")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0307\u0308\u0307\u0306\u0308\u0301\u0302\u0306\u0307\u0306\u0301\u0304\u0303\u0305\u0308()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011851 RID: 71761 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011851")]
+		[Address(RVA = "0x3727600", Offset = "0x3726A00", VA = "0x183727600")]
+		public static WearableChest \u0307\u0303\u0304\u0308\u0303\u0305\u0303\u0303\u0304\u0305\u0307\u0306\u0301\u0301\u0303(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011852 RID: 71762 RVA: 0x00069D7C File Offset: 0x00067F7C
+		[Token(Token = "0x6011852")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "25")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0303\u0301\u0301\u0306\u0301\u0308\u0306\u0303\u0302\u0307\u0301\u0302\u0308\u0308\u0303()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011853 RID: 71763 RVA: 0x00069D94 File Offset: 0x00067F94
+		[Token(Token = "0x6011853")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "26")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0308\u0306\u0304\u0304\u0301\u0306\u0307\u0302\u0301\u0301\u0304\u0303\u0303\u0307\u0303()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011854 RID: 71764 RVA: 0x00069DAC File Offset: 0x00067FAC
+		[Token(Token = "0x6011854")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "27")]
+		public virtual bool \u0305\u0306\u0304\u0307\u0307\u0304\u0306\u0304\u0303\u0302\u0302\u0306\u0307\u0305\u0308()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011855 RID: 71765 RVA: 0x00069DC4 File Offset: 0x00067FC4
+		[Token(Token = "0x6011855")]
+		[Address(RVA = "0x3726AA0", Offset = "0x3725EA0", VA = "0x183726AA0", Slot = "28")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0302\u0305\u0308\u0301\u0304\u0303\u0308\u0303\u0307\u0308\u0305\u0301\u0307\u0303\u0307()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011856 RID: 71766 RVA: 0x00069DDC File Offset: 0x00067FDC
+		[Token(Token = "0x6011856")]
+		[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "29")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0308\u0303\u0308\u0308\u0303\u0308\u0307\u0302\u0302\u0304\u0306\u0308\u0308\u0301\u0301()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011857 RID: 71767 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011857")]
+		[Address(RVA = "0x3726E10", Offset = "0x3726210", VA = "0x183726E10")]
+		public static WearableChest \u0304\u0308\u0301\u0302\u0306\u0302\u0308\u0308\u0305\u0301\u0303\u0305\u0302\u0307\u0305(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011858 RID: 71768 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011858")]
+		[Address(RVA = "0x3726AB0", Offset = "0x3725EB0", VA = "0x183726AB0")]
+		public static WearableChest \u0302\u0307\u0302\u0301\u0306\u0303\u0303\u0308\u0305\u0306\u0304\u0307\u0302\u0303\u0301(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011859 RID: 71769 RVA: 0x00069DF4 File Offset: 0x00067FF4
+		[Token(Token = "0x6011859")]
+		[Address(RVA = "0x3726EF0", Offset = "0x37262F0", VA = "0x183726EF0", Slot = "30")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0305\u0305\u0301\u0308\u0302\u0302\u0303\u0302\u0307\u0304\u0302\u0305\u0304\u0305\u0308()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x0601185A RID: 71770 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601185A")]
+		[Address(RVA = "0x37276E0", Offset = "0x3726AE0", VA = "0x1837276E0")]
+		public static WearableChest \u0307\u0303\u0307\u0307\u0306\u0301\u0303\u0306\u0304\u0306\u0305\u0302\u0305\u0306\u0308(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601185B RID: 71771 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601185B")]
+		[Address(RVA = "0x3726800", Offset = "0x3725C00", VA = "0x183726800")]
+		public static WearableChest \u0302\u0301\u0306\u0308\u0307\u0304\u0301\u0303\u0306\u0303\u0307\u0304\u0302\u0308\u0302(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601185C RID: 71772 RVA: 0x00069E0C File Offset: 0x0006800C
+		[Token(Token = "0x601185C")]
+		[Address(RVA = "0x19EBA80", Offset = "0x19EAE80", VA = "0x1819EBA80", Slot = "31")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0304\u0305\u0306\u0306\u0304\u0308\u0308\u0306\u0306\u0303\u0301\u0303\u0304\u0301\u0307()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x0601185D RID: 71773 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601185D")]
+		[Address(RVA = "0x3726C60", Offset = "0x3726060", VA = "0x183726C60")]
+		public static WearableChest \u0303\u0303\u0307\u0302\u0303\u0304\u0306\u0306\u0304\u0307\u0308\u0306\u0308\u0306\u0302(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601185E RID: 71774 RVA: 0x00069E24 File Offset: 0x00068024
+		[Token(Token = "0x601185E")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "32")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0307\u0303\u0303\u0304\u0304\u0303\u0302\u0305\u0305\u0303\u0303\u0306\u0308\u0303\u0301()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601185F RID: 71775 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601185F")]
+		[Address(RVA = "0x37268D0", Offset = "0x3725CD0", VA = "0x1837268D0")]
+		public static WearableChest \u0302\u0303\u0304\u0307\u0308\u0306\u0304\u0302\u0307\u0301\u0307\u0304\u0303\u0306\u0301(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011860 RID: 71776 RVA: 0x00069E3C File Offset: 0x0006803C
+		[Token(Token = "0x6011860")]
+		[Address(RVA = "0x37267F0", Offset = "0x3725BF0", VA = "0x1837267F0", Slot = "33")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0302\u0301\u0301\u0304\u0302\u0302\u0304\u0308\u0305\u0301\u0306\u0301\u0302\u0301\u0305()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011861 RID: 71777 RVA: 0x00069E54 File Offset: 0x00068054
+		[Token(Token = "0x6011861")]
+		[Address(RVA = "0x3727370", Offset = "0x3726770", VA = "0x183727370", Slot = "34")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0306\u0304\u0304\u0308\u0306\u0301\u0302\u0303\u0308\u0303\u0304\u0305\u0308\u0301\u0302()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011862 RID: 71778 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6011862")]
+		[Address(RVA = "0x3724C30", Offset = "0x3724030", VA = "0x183724C30")]
+		public WearableChest()
+		{
+		}
+
+		// Token: 0x06011863 RID: 71779 RVA: 0x00069E6C File Offset: 0x0006806C
+		[Token(Token = "0x6011863")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "35")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0303\u0303\u0301\u0301\u0303\u0301\u0304\u0307\u0308\u0303\u0307\u0304\u0301\u0303\u0302()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011864 RID: 71780 RVA: 0x00069E84 File Offset: 0x00068084
+		[Token(Token = "0x6011864")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "36")]
+		public virtual bool \u0304\u0308\u0301\u0301\u0301\u0302\u0303\u0306\u0302\u0304\u0301\u0304\u0302\u0305\u0303()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011865 RID: 71781 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011865")]
+		[Address(RVA = "0x3727460", Offset = "0x3726860", VA = "0x183727460")]
+		public static WearableChest \u0306\u0307\u0303\u0302\u0306\u0304\u0307\u0307\u0301\u0307\u0308\u0301\u0307\u0303\u0308(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011866 RID: 71782 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011866")]
+		[Address(RVA = "0x37271A0", Offset = "0x37265A0", VA = "0x1837271A0")]
+		public static WearableChest \u0306\u0301\u0308\u0306\u0302\u0307\u0302\u0305\u0302\u0304\u0305\u0304\u0305\u0305\u0304(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011867 RID: 71783 RVA: 0x00069E9C File Offset: 0x0006809C
+		[Token(Token = "0x6011867")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "37")]
+		public virtual bool \u0308\u0306\u0308\u0307\u0305\u0305\u0305\u0302\u0301\u0307\u0303\u0301\u0307\u0308\u0304()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011868 RID: 71784 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011868")]
+		[Address(RVA = "0x3726F00", Offset = "0x3726300", VA = "0x183726F00")]
+		public static WearableChest \u0305\u0308\u0302\u0308\u0304\u0303\u0301\u0307\u0308\u0308\u0307\u0308\u0301\u0307\u0306(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011869 RID: 71785 RVA: 0x00069EB4 File Offset: 0x000680B4
+		[Token(Token = "0x6011869")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "38")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0303\u0302\u0303\u0303\u0303\u0306\u0306\u0304\u0304\u0306\u0302\u0306\u0307\u0304\u0306()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601186A RID: 71786 RVA: 0x00069ECC File Offset: 0x000680CC
+		[Token(Token = "0x601186A")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "39")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0308\u0303\u0305\u0303\u0303\u0306\u0303\u0306\u0307\u0303\u0304\u0306\u0306\u0307\u0302()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601186B RID: 71787 RVA: 0x00069EE4 File Offset: 0x000680E4
+		[Token(Token = "0x601186B")]
+		[Address(RVA = "0x20EC0D0", Offset = "0x20EB4D0", VA = "0x1820EC0D0", Slot = "6")]
+		public override \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0306\u0306\u0305\u0302\u0307\u0308\u0304\u0306\u0301\u0307\u0308\u0302\u0302\u0305\u0306()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x0601186C RID: 71788 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601186C")]
+		[Address(RVA = "0x3727280", Offset = "0x3726680", VA = "0x183727280")]
+		public static WearableChest \u0306\u0302\u0304\u0302\u0307\u0303\u0306\u0305\u0302\u0308\u0305\u0308\u0303\u0302\u0305(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601186D RID: 71789 RVA: 0x00069EFC File Offset: 0x000680FC
+		[Token(Token = "0x601186D")]
+		[Address(RVA = "0x249C700", Offset = "0x249BB00", VA = "0x18249C700", Slot = "40")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0304\u0303\u0308\u0308\u0302\u0304\u0301\u0306\u0305\u0301\u0301\u0301\u0304\u0302\u0302()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x0601186E RID: 71790 RVA: 0x00069F14 File Offset: 0x00068114
+		[Token(Token = "0x601186E")]
+		[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "41")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0302\u0305\u0305\u0308\u0306\u0305\u0307\u0306\u0302\u0307\u0301\u0308\u0302\u0304\u0302()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601186F RID: 71791 RVA: 0x00069F2C File Offset: 0x0006812C
+		[Token(Token = "0x601186F")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "42")]
+		public virtual bool \u0307\u0301\u0304\u0306\u0307\u0302\u0301\u0305\u0303\u0303\u0305\u0307\u0307\u0301\u0304()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011870 RID: 71792 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011870")]
+		[Address(RVA = "0x3726B80", Offset = "0x3725F80", VA = "0x183726B80")]
+		public static WearableChest \u0303\u0301\u0302\u0308\u0304\u0308\u0308\u0303\u0304\u0304\u0306\u0302\u0303\u0307\u0301(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011871 RID: 71793 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011871")]
+		[Address(RVA = "0x3726D30", Offset = "0x3726130", VA = "0x183726D30")]
+		public static WearableChest \u0303\u0306\u0305\u0305\u0302\u0303\u0305\u0304\u0305\u0308\u0306\u0303\u0301\u0301\u0305(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011872 RID: 71794 RVA: 0x00069F44 File Offset: 0x00068144
+		[Token(Token = "0x6011872")]
+		[Address(RVA = "0x3727360", Offset = "0x3726760", VA = "0x183727360", Slot = "43")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0308\u0302\u0308\u0306\u0307\u0307\u0308\u0304\u0302\u0305\u0301\u0307\u0304\u0307\u0308()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011873 RID: 71795 RVA: 0x00069F5C File Offset: 0x0006815C
+		[Token(Token = "0x6011873")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "44")]
+		public virtual bool \u0302\u0306\u0307\u0301\u0302\u0302\u0308\u0308\u0305\u0304\u0304\u0306\u0303\u0304\u0307()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011874 RID: 71796 RVA: 0x00069F74 File Offset: 0x00068174
+		[Token(Token = "0x6011874")]
+		[Address(RVA = "0x3726C50", Offset = "0x3726050", VA = "0x183726C50", Slot = "45")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0303\u0302\u0304\u0304\u0302\u0302\u0305\u0304\u0307\u0308\u0303\u0306\u0302\u0303\u0305()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011875 RID: 71797 RVA: 0x00069F8C File Offset: 0x0006818C
+		[Token(Token = "0x6011875")]
+		[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "46")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0301\u0301\u0304\u0301\u0302\u0306\u0307\u0308\u0301\u0305\u0306\u0308\u0304\u0306\u0304()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011876 RID: 71798 RVA: 0x00069FA4 File Offset: 0x000681A4
+		[Token(Token = "0x6011876")]
+		[Address(RVA = "0x1E68650", Offset = "0x1E67A50", VA = "0x181E68650", Slot = "47")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0302\u0307\u0303\u0308\u0306\u0301\u0305\u0307\u0303\u0305\u0304\u0303\u0307\u0302\u0308()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011877 RID: 71799 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011877")]
+		[Address(RVA = "0x3727530", Offset = "0x3726930", VA = "0x183727530")]
+		public static WearableChest \u0306\u0307\u0303\u0303\u0307\u0301\u0308\u0305\u0302\u0307\u0303\u0308\u0301\u0306\u0305(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011878 RID: 71800 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011878")]
+		[Address(RVA = "0x37269C0", Offset = "0x3725DC0", VA = "0x1837269C0")]
+		public static WearableChest \u0302\u0305\u0304\u0301\u0303\u0307\u0307\u0307\u0307\u0304\u0308\u0306\u0301\u0306\u0305(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011879 RID: 71801 RVA: 0x00069FBC File Offset: 0x000681BC
+		[Token(Token = "0x6011879")]
+		[Address(RVA = "0x37269B0", Offset = "0x3725DB0", VA = "0x1837269B0", Slot = "48")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0302\u0305\u0302\u0304\u0301\u0304\u0302\u0305\u0303\u0307\u0302\u0304\u0302\u0307\u0306()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x0601187A RID: 71802 RVA: 0x00069FD4 File Offset: 0x000681D4
+		[Token(Token = "0x601187A")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "49")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0308\u0307\u0302\u0303\u0308\u0306\u0307\u0304\u0308\u0308\u0303\u0302\u0301\u0303\u0306()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601187B RID: 71803 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601187B")]
+		[Address(RVA = "0x3727380", Offset = "0x3726780", VA = "0x183727380")]
+		public static WearableChest \u0306\u0305\u0306\u0301\u0306\u0303\u0304\u0301\u0307\u0301\u0307\u0304\u0305\u0301\u0305(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0601187C RID: 71804 RVA: 0x00069FEC File Offset: 0x000681EC
+		[Token(Token = "0x601187C")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "5")]
+		public override \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0305\u0301\u0308\u0304\u0307\u0306\u0301\u0305\u0308\u0303\u0304\u0302\u0307\u0307\u0308()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601187D RID: 71805 RVA: 0x0006A004 File Offset: 0x00068204
+		[Token(Token = "0x601187D")]
+		[Address(RVA = "0x20E9520", Offset = "0x20E8920", VA = "0x1820E9520", Slot = "50")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0304\u0304\u0306\u0307\u0306\u0305\u0302\u0304\u0304\u0307\u0307\u0308\u0307\u0307\u0303()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x0601187E RID: 71806 RVA: 0x0006A01C File Offset: 0x0006821C
+		[Token(Token = "0x601187E")]
+		[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "51")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0307\u0306\u0304\u0306\u0308\u0301\u0305\u0307\u0303\u0308\u0304\u0308\u0308\u0308\u0304()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x0601187F RID: 71807 RVA: 0x0006A034 File Offset: 0x00068234
+		[Token(Token = "0x601187F")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "52")]
+		public virtual bool \u0307\u0304\u0308\u0301\u0308\u0305\u0302\u0304\u0308\u0308\u0302\u0307\u0306\u0303\u0301()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06011880 RID: 71808 RVA: 0x0006A04C File Offset: 0x0006824C
+		[Token(Token = "0x6011880")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "53")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0302\u0301\u0306\u0302\u0303\u0305\u0302\u0303\u0308\u0306\u0305\u0308\u0302\u0302\u0301()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011881 RID: 71809 RVA: 0x0006A064 File Offset: 0x00068264
+		[Token(Token = "0x6011881")]
+		[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "54")]
+		public virtual \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301 \u0302\u0308\u0301\u0305\u0308\u0305\u0302\u0306\u0301\u0304\u0306\u0301\u0306\u0308\u0307()
+		{
+			return \u0301\u0301\u0303\u0303\u0301\u0302\u0308\u0307\u0308\u0301\u0302\u0302\u0304\u0306\u0301.Head;
+		}
+
+		// Token: 0x06011882 RID: 71810 RVA: 0x0006A07C File Offset: 0x0006827C
+		[Token(Token = "0x6011882")]
+		[Address(RVA = "0x19F3C20", Offset = "0x19F3020", VA = "0x1819F3C20", Slot = "55")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0303\u0303\u0303\u0306\u0308\u0306\u0305\u0303\u0306\u0308\u0306\u0304\u0308\u0307\u0304()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011883 RID: 71811 RVA: 0x0006A094 File Offset: 0x00068294
+		[Token(Token = "0x6011883")]
+		[Address(RVA = "0x1D22880", Offset = "0x1D21C80", VA = "0x181D22880", Slot = "56")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0305\u0302\u0307\u0302\u0307\u0305\u0301\u0301\u0302\u0306\u0308\u0307\u0301\u0308\u0301()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011884 RID: 71812 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011884")]
+		[Address(RVA = "0x3726650", Offset = "0x3725A50", VA = "0x183726650")]
+		public static WearableChest \u0301\u0304\u0307\u0303\u0303\u0303\u0304\u0304\u0304\u0302\u0304\u0304\u0308\u0302\u0307(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x06011885 RID: 71813 RVA: 0x0006A0AC File Offset: 0x000682AC
+		[Token(Token = "0x6011885")]
+		[Address(RVA = "0x1C8A4F0", Offset = "0x1C898F0", VA = "0x181C8A4F0", Slot = "57")]
+		public virtual \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305 \u0306\u0305\u0306\u0301\u0302\u0308\u0308\u0307\u0302\u0301\u0305\u0305\u0308\u0305\u0302()
+		{
+			return \u0308\u0305\u0303\u0306\u0302\u0305\u0302\u0307\u0304\u0301\u0304\u0301\u0307\u0301\u0305.None;
+		}
+
+		// Token: 0x06011886 RID: 71814 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6011886")]
+		[Address(RVA = "0x3727890", Offset = "0x3726C90", VA = "0x183727890")]
+		public static WearableChest \u0308\u0301\u0305\u0306\u0304\u0302\u0308\u0306\u0306\u0305\u0307\u0301\u0302\u0308\u0306(int \u0302\u0303\u0305\u0302\u0308\u0303\u0307\u0306\u0304\u0307\u0303\u0301\u0305\u0308\u0305)
+		{
+			return null;
+		}
+
+		// Token: 0x0400301B RID: 12315
+		[Token(Token = "0x400301B")]
+		[FieldOffset(Offset = "0x48")]
+		public \u0308\u0308\u0304\u0304\u0305\u0302\u0301\u0308\u0307\u0304\u0308\u0303\u0304\u0308\u0305 Category;
+	}
+}

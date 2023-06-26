@@ -1,0 +1,270 @@
+﻿using System;
+using touching_your_mom;
+using UnityEngine;
+
+// Token: 0x02000379 RID: 889
+[Token(Token = "0x2000379")]
+public class Tank : Vehicle
+{
+	// Token: 0x06009ECF RID: 40655 RVA: 0x0003BF24 File Offset: 0x0003A124
+	[Token(Token = "0x6009ECF")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "41")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0302\u0306\u0308\u0305\u0306\u0302\u0303\u0301\u0304\u0306\u0301\u0301\u0302\u0305\u0307()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED0 RID: 40656 RVA: 0x0003BF3C File Offset: 0x0003A13C
+	[Token(Token = "0x6009ED0")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "42")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0304\u0302\u0301\u0305\u0306\u0303\u0302\u0304\u0302\u0303\u0302\u0305\u0305\u0302\u0303()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED1 RID: 40657 RVA: 0x0003BF54 File Offset: 0x0003A154
+	[Token(Token = "0x6009ED1")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "43")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0303\u0308\u0302\u0303\u0304\u0303\u0308\u0305\u0302\u0303\u0304\u0304\u0307\u0304\u0304()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED2 RID: 40658 RVA: 0x0003BF6C File Offset: 0x0003A16C
+	[Token(Token = "0x6009ED2")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "44")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0307\u0307\u0305\u0301\u0308\u0301\u0303\u0308\u0302\u0305\u0305\u0304\u0305\u0306\u0301()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED3 RID: 40659 RVA: 0x0003BF84 File Offset: 0x0003A184
+	[Token(Token = "0x6009ED3")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "45")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0303\u0306\u0307\u0302\u0303\u0302\u0304\u0301\u0301\u0304\u0304\u0303\u0302\u0305\u0301()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED4 RID: 40660 RVA: 0x0003BF9C File Offset: 0x0003A19C
+	[Token(Token = "0x6009ED4")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "46")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0301\u0308\u0306\u0306\u0303\u0303\u0308\u0304\u0304\u0303\u0306\u0308\u0304\u0303\u0301()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED5 RID: 40661 RVA: 0x0003BFB4 File Offset: 0x0003A1B4
+	[Token(Token = "0x6009ED5")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "47")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0306\u0307\u0301\u0306\u0303\u0301\u0303\u0307\u0306\u0302\u0305\u0304\u0303\u0306\u0302()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED6 RID: 40662 RVA: 0x0003BFCC File Offset: 0x0003A1CC
+	[Token(Token = "0x6009ED6")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "48")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0308\u0308\u0307\u0302\u0303\u0305\u0304\u0301\u0302\u0306\u0302\u0302\u0308\u0304\u0305()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED7 RID: 40663 RVA: 0x0003BFE4 File Offset: 0x0003A1E4
+	[Token(Token = "0x6009ED7")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "49")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0305\u0301\u0307\u0307\u0308\u0308\u0307\u0301\u0304\u0308\u0302\u0303\u0304\u0306\u0305()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED8 RID: 40664 RVA: 0x0003BFFC File Offset: 0x0003A1FC
+	[Token(Token = "0x6009ED8")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "50")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0308\u0303\u0308\u0306\u0304\u0301\u0303\u0302\u0305\u0303\u0305\u0301\u0303\u0306\u0303()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009ED9 RID: 40665 RVA: 0x0003C014 File Offset: 0x0003A214
+	[Token(Token = "0x6009ED9")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "51")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0301\u0306\u0302\u0306\u0301\u0304\u0301\u0305\u0303\u0305\u0304\u0303\u0308\u0303\u0304()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EDA RID: 40666 RVA: 0x0003C02C File Offset: 0x0003A22C
+	[Token(Token = "0x6009EDA")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "52")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0302\u0306\u0302\u0304\u0301\u0302\u0305\u0302\u0305\u0307\u0306\u0304\u0306\u0306\u0307()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EDB RID: 40667 RVA: 0x0003C044 File Offset: 0x0003A244
+	[Token(Token = "0x6009EDB")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "53")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0307\u0303\u0305\u0307\u0304\u0307\u0306\u0305\u0307\u0307\u0301\u0307\u0304\u0304\u0304()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EDC RID: 40668 RVA: 0x0003C05C File Offset: 0x0003A25C
+	[Token(Token = "0x6009EDC")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "54")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0303\u0305\u0307\u0306\u0302\u0304\u0303\u0303\u0306\u0301\u0305\u0306\u0307\u0306\u0303()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EDD RID: 40669 RVA: 0x0003C074 File Offset: 0x0003A274
+	[Token(Token = "0x6009EDD")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "55")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0302\u0302\u0307\u0303\u0301\u0302\u0306\u0303\u0301\u0305\u0305\u0307\u0301\u0307\u0306()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EDE RID: 40670 RVA: 0x0003C08C File Offset: 0x0003A28C
+	[Token(Token = "0x6009EDE")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "56")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0306\u0305\u0307\u0304\u0305\u0304\u0308\u0306\u0304\u0308\u0304\u0305\u0303\u0307\u0305()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EDF RID: 40671 RVA: 0x0003C0A4 File Offset: 0x0003A2A4
+	[Token(Token = "0x6009EDF")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "57")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0308\u0304\u0307\u0306\u0306\u0305\u0307\u0301\u0307\u0302\u0303\u0303\u0303\u0303\u0306()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EE0 RID: 40672 RVA: 0x0003C0BC File Offset: 0x0003A2BC
+	[Token(Token = "0x6009EE0")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "58")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0305\u0306\u0306\u0304\u0302\u0305\u0307\u0307\u0304\u0302\u0303\u0301\u0308\u0306\u0302()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EE1 RID: 40673 RVA: 0x0003C0D4 File Offset: 0x0003A2D4
+	[Token(Token = "0x6009EE1")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "59")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0304\u0305\u0308\u0301\u0304\u0306\u0308\u0302\u0304\u0305\u0303\u0306\u0307\u0303\u0304()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EE2 RID: 40674 RVA: 0x0003C0EC File Offset: 0x0003A2EC
+	[Token(Token = "0x6009EE2")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "60")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0301\u0304\u0306\u0306\u0301\u0308\u0306\u0303\u0305\u0307\u0308\u0307\u0306\u0304\u0303()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EE3 RID: 40675 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6009EE3")]
+	[Address(RVA = "0x1D596B0", Offset = "0x1D58AB0", VA = "0x181D596B0")]
+	public Tank()
+	{
+	}
+
+	// Token: 0x06009EE4 RID: 40676 RVA: 0x0003C104 File Offset: 0x0003A304
+	[Token(Token = "0x6009EE4")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "61")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0301\u0307\u0305\u0301\u0306\u0304\u0308\u0302\u0302\u0306\u0301\u0303\u0307\u0308\u0308()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EE5 RID: 40677 RVA: 0x0003C11C File Offset: 0x0003A31C
+	[Token(Token = "0x6009EE5")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "62")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0306\u0303\u0308\u0307\u0308\u0303\u0305\u0307\u0306\u0308\u0305\u0306\u0308\u0307\u0308()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EE6 RID: 40678 RVA: 0x0003C134 File Offset: 0x0003A334
+	[Token(Token = "0x6009EE6")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "63")]
+	public virtual \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0304\u0304\u0302\u0307\u0305\u0301\u0302\u0307\u0307\u0302\u0305\u0303\u0302\u0301\u0306()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x06009EE7 RID: 40679 RVA: 0x0003C14C File Offset: 0x0003A34C
+	[Token(Token = "0x6009EE7")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "32")]
+	public override \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 \u0307\u0301\u0306\u0306\u0306\u0305\u0303\u0303\u0302\u0308\u0305\u0305\u0306\u0305\u0305()
+	{
+		return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+	}
+
+	// Token: 0x170005ED RID: 1517
+	// (get) Token: 0x06009EE8 RID: 40680 RVA: 0x0003C164 File Offset: 0x0003A364
+	[Token(Token = "0x170005ED")]
+	public override \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301 VehicleType
+	{
+		[Token(Token = "0x6009EE8")]
+		[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "31")]
+		get
+		{
+			return \u0301\u0303\u0305\u0305\u0301\u0303\u0306\u0305\u0305\u0304\u0301\u0301\u0307\u0305\u0301.Tank;
+		}
+	}
+
+	// Token: 0x04001A58 RID: 6744
+	[Token(Token = "0x4001A58")]
+	[FieldOffset(Offset = "0x148")]
+	public float Break;
+
+	// Token: 0x04001A59 RID: 6745
+	[Token(Token = "0x4001A59")]
+	[FieldOffset(Offset = "0x14C")]
+	public float RotationVelocity;
+
+	// Token: 0x04001A5A RID: 6746
+	[Token(Token = "0x4001A5A")]
+	[FieldOffset(Offset = "0x150")]
+	public float RotationAccelaration;
+
+	// Token: 0x04001A5B RID: 6747
+	[Token(Token = "0x4001A5B")]
+	[FieldOffset(Offset = "0x158")]
+	public Gear[] Gears;
+
+	// Token: 0x04001A5C RID: 6748
+	[Token(Token = "0x4001A5C")]
+	[FieldOffset(Offset = "0x160")]
+	public AudioClip AudioGas;
+
+	// Token: 0x04001A5D RID: 6749
+	[Token(Token = "0x4001A5D")]
+	[FieldOffset(Offset = "0x168")]
+	public AudioClip AudioIdle;
+
+	// Token: 0x04001A5E RID: 6750
+	[Token(Token = "0x4001A5E")]
+	[FieldOffset(Offset = "0x170")]
+	public AudioClip AudioMovement;
+
+	// Token: 0x04001A5F RID: 6751
+	[Token(Token = "0x4001A5F")]
+	[FieldOffset(Offset = "0x178")]
+	public AudioClip AudioEngineMain;
+
+	// Token: 0x04001A60 RID: 6752
+	[Token(Token = "0x4001A60")]
+	[FieldOffset(Offset = "0x180")]
+	public AudioClip AudioEnginePitch;
+
+	// Token: 0x04001A61 RID: 6753
+	[Token(Token = "0x4001A61")]
+	[FieldOffset(Offset = "0x188")]
+	public AnimationCurve TurretVerticalMinimum;
+}

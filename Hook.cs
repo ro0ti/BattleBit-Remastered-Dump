@@ -1,0 +1,209 @@
+﻿using System;
+using touching_your_mom;
+using UnityEngine;
+
+// Token: 0x020000E9 RID: 233
+[Token(Token = "0x20000E9")]
+public class Hook : ToolItem
+{
+	// Token: 0x06002784 RID: 10116 RVA: 0x0000E0B4 File Offset: 0x0000C2B4
+	[Token(Token = "0x6002784")]
+	[Address(RVA = "0xA0C810", Offset = "0xA0BC10", VA = "0x180A0C810", Slot = "27")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0305\u0301\u0308\u0303\u0308\u0301\u0305\u0305\u0304\u0305\u0304\u0308\u0305\u0307\u0303()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002785 RID: 10117 RVA: 0x0000E0CC File Offset: 0x0000C2CC
+	[Token(Token = "0x6002785")]
+	[Address(RVA = "0x1034450", Offset = "0x1033850", VA = "0x181034450", Slot = "28")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0303\u0305\u0307\u0304\u0308\u0307\u0307\u0303\u0308\u0301\u0301\u0305\u0307\u0306\u0304()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002786 RID: 10118 RVA: 0x0000E0E4 File Offset: 0x0000C2E4
+	[Token(Token = "0x6002786")]
+	[Address(RVA = "0xBF1440", Offset = "0xBF0840", VA = "0x180BF1440", Slot = "29")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0307\u0307\u0304\u0308\u0303\u0302\u0308\u0308\u0307\u0304\u0304\u0308\u0308\u0303\u0308()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002787 RID: 10119 RVA: 0x0000E0FC File Offset: 0x0000C2FC
+	[Token(Token = "0x6002787")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "30")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0303\u0305\u0304\u0303\u0305\u0306\u0302\u0301\u0308\u0308\u0301\u0305\u0306\u0301\u0307()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002788 RID: 10120 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6002788")]
+	[Address(RVA = "0x1FE9980", Offset = "0x1FE8D80", VA = "0x181FE9980")]
+	public Hook()
+	{
+	}
+
+	// Token: 0x06002789 RID: 10121 RVA: 0x0000E114 File Offset: 0x0000C314
+	[Token(Token = "0x6002789")]
+	[Address(RVA = "0x1034450", Offset = "0x1033850", VA = "0x181034450", Slot = "31")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0302\u0303\u0305\u0301\u0308\u0307\u0307\u0306\u0307\u0302\u0303\u0307\u0304\u0308\u0306()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x0600278A RID: 10122 RVA: 0x0000E12C File Offset: 0x0000C32C
+	[Token(Token = "0x600278A")]
+	[Address(RVA = "0xE83970", Offset = "0xE82D70", VA = "0x180E83970", Slot = "32")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0303\u0303\u0303\u0301\u0305\u0303\u0301\u0307\u0302\u0301\u0301\u0305\u0306\u0303\u0302()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x0600278B RID: 10123 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x600278B")]
+	[Address(RVA = "0x1FE9900", Offset = "0x1FE8D00", VA = "0x181FE9900")]
+	public static Hook \u0308\u0304\u0304\u0303\u0306\u0303\u0303\u0308\u0308\u0306\u0303\u0302\u0304\u0302\u0305(ushort \u0301\u0305\u0301\u0302\u0308\u0306\u0303\u0301\u0306\u0302\u0301\u0302\u0302\u0304\u0306)
+	{
+		return null;
+	}
+
+	// Token: 0x0600278C RID: 10124 RVA: 0x0000E144 File Offset: 0x0000C344
+	[Token(Token = "0x600278C")]
+	[Address(RVA = "0xBF1440", Offset = "0xBF0840", VA = "0x180BF1440", Slot = "33")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0308\u0307\u0306\u0303\u0303\u0302\u0303\u0302\u0304\u0305\u0302\u0305\u0306\u0302\u0302()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x0600278D RID: 10125 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x600278D")]
+	[Address(RVA = "0x1FE9800", Offset = "0x1FE8C00", VA = "0x181FE9800")]
+	public static Hook \u0306\u0307\u0303\u0302\u0306\u0304\u0307\u0307\u0301\u0307\u0308\u0301\u0307\u0303\u0308(ushort \u0301\u0305\u0301\u0302\u0308\u0306\u0303\u0301\u0306\u0302\u0301\u0302\u0302\u0304\u0306)
+	{
+		return null;
+	}
+
+	// Token: 0x0600278E RID: 10126 RVA: 0x0000E15C File Offset: 0x0000C35C
+	[Token(Token = "0x600278E")]
+	[Address(RVA = "0x1034450", Offset = "0x1033850", VA = "0x181034450", Slot = "34")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0306\u0307\u0307\u0302\u0305\u0301\u0305\u0301\u0306\u0302\u0304\u0305\u0308\u0305\u0304()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x0600278F RID: 10127 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x600278F")]
+	[Address(RVA = "0x1FE9700", Offset = "0x1FE8B00", VA = "0x181FE9700")]
+	public static Hook \u0301\u0301\u0305\u0306\u0308\u0307\u0305\u0305\u0306\u0303\u0301\u0306\u0307\u0303\u0303(ushort \u0301\u0305\u0301\u0302\u0308\u0306\u0303\u0301\u0306\u0302\u0301\u0302\u0302\u0304\u0306)
+	{
+		return null;
+	}
+
+	// Token: 0x06002790 RID: 10128 RVA: 0x0000E174 File Offset: 0x0000C374
+	[Token(Token = "0x6002790")]
+	[Address(RVA = "0xE15B40", Offset = "0xE14F40", VA = "0x180E15B40", Slot = "35")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0306\u0308\u0304\u0302\u0303\u0306\u0304\u0308\u0308\u0305\u0308\u0306\u0308\u0303\u0303()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002791 RID: 10129 RVA: 0x0000E18C File Offset: 0x0000C38C
+	[Token(Token = "0x6002791")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "36")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0308\u0308\u0305\u0306\u0305\u0304\u0302\u0303\u0302\u0304\u0307\u0306\u0302\u0304\u0305()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002792 RID: 10130 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x6002792")]
+	[Address(RVA = "0x1FE9880", Offset = "0x1FE8C80", VA = "0x181FE9880")]
+	public static Hook \u0307\u0303\u0307\u0307\u0306\u0301\u0303\u0306\u0304\u0306\u0305\u0302\u0305\u0306\u0308(ushort \u0301\u0305\u0301\u0302\u0308\u0306\u0303\u0301\u0306\u0302\u0301\u0302\u0302\u0304\u0306)
+	{
+		return null;
+	}
+
+	// Token: 0x06002793 RID: 10131 RVA: 0x0000E1A4 File Offset: 0x0000C3A4
+	[Token(Token = "0x6002793")]
+	[Address(RVA = "0xBF1440", Offset = "0xBF0840", VA = "0x180BF1440", Slot = "37")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0305\u0306\u0304\u0302\u0305\u0307\u0302\u0303\u0304\u0307\u0304\u0303\u0303\u0307\u0305()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002794 RID: 10132 RVA: 0x0000E1BC File Offset: 0x0000C3BC
+	[Token(Token = "0x6002794")]
+	[Address(RVA = "0xBF1440", Offset = "0xBF0840", VA = "0x180BF1440", Slot = "4")]
+	public override ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0306\u0307\u0303\u0305\u0302\u0308\u0306\u0305\u0304\u0303\u0307\u0303\u0308\u0306\u0307()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002795 RID: 10133 RVA: 0x0000E1D4 File Offset: 0x0000C3D4
+	[Token(Token = "0x6002795")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "38")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0302\u0307\u0307\u0301\u0308\u0307\u0308\u0303\u0307\u0302\u0307\u0301\u0308\u0303\u0304()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002796 RID: 10134 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x6002796")]
+	[Address(RVA = "0x1FE9780", Offset = "0x1FE8B80", VA = "0x181FE9780")]
+	public static Hook \u0304\u0307\u0306\u0302\u0302\u0307\u0302\u0306\u0304\u0304\u0303\u0303\u0306\u0308\u0304(ushort \u0301\u0305\u0301\u0302\u0308\u0306\u0303\u0301\u0306\u0302\u0301\u0302\u0302\u0304\u0306)
+	{
+		return null;
+	}
+
+	// Token: 0x06002797 RID: 10135 RVA: 0x0000E1EC File Offset: 0x0000C3EC
+	[Token(Token = "0x6002797")]
+	[Address(RVA = "0xE15B40", Offset = "0xE14F40", VA = "0x180E15B40", Slot = "39")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0305\u0306\u0304\u0304\u0304\u0306\u0303\u0304\u0304\u0306\u0307\u0306\u0301\u0304\u0304()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002798 RID: 10136 RVA: 0x0000E204 File Offset: 0x0000C404
+	[Token(Token = "0x6002798")]
+	[Address(RVA = "0x936110", Offset = "0x935510", VA = "0x180936110", Slot = "40")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0308\u0308\u0305\u0308\u0305\u0307\u0304\u0302\u0306\u0308\u0306\u0306\u0306\u0302\u0308()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x06002799 RID: 10137 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x6002799")]
+	[Address(RVA = "0x1C9AB30", Offset = "0x1C99F30", VA = "0x181C9AB30")]
+	public new static Hook \u0301\u0303\u0308\u0304\u0302\u0303\u0308\u0307\u0306\u0307\u0307\u0305\u0305\u0306\u0302(ushort \u0301\u0305\u0301\u0302\u0308\u0306\u0303\u0301\u0306\u0302\u0301\u0302\u0302\u0304\u0306)
+	{
+		return null;
+	}
+
+	// Token: 0x0600279A RID: 10138 RVA: 0x0000E21C File Offset: 0x0000C41C
+	[Token(Token = "0x600279A")]
+	[Address(RVA = "0x9DD4A0", Offset = "0x9DC8A0", VA = "0x1809DD4A0", Slot = "41")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0305\u0302\u0301\u0302\u0306\u0306\u0308\u0303\u0308\u0307\u0304\u0304\u0308\u0306\u0306()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x0600279B RID: 10139 RVA: 0x0000E234 File Offset: 0x0000C434
+	[Token(Token = "0x600279B")]
+	[Address(RVA = "0x8BAAE0", Offset = "0x8B9EE0", VA = "0x1808BAAE0", Slot = "42")]
+	public virtual ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304 \u0305\u0306\u0308\u0307\u0302\u0307\u0301\u0301\u0306\u0307\u0307\u0304\u0307\u0304\u0304()
+	{
+		return ToolItem.\u0303\u0308\u0301\u0303\u0305\u0304\u0307\u0303\u0302\u0301\u0301\u0302\u0307\u0307\u0304.None;
+	}
+
+	// Token: 0x0400056A RID: 1386
+	[Token(Token = "0x400056A")]
+	[FieldOffset(Offset = "0x78")]
+	public GameObject ProjectilePrefab;
+
+	// Token: 0x0400056B RID: 1387
+	[Token(Token = "0x400056B")]
+	[FieldOffset(Offset = "0x80")]
+	public float GasConsumption;
+}

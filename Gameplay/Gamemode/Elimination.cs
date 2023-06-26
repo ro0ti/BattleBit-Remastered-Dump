@@ -1,0 +1,1171 @@
+﻿using System;
+using touching_your_mom;
+using UnityEngine;
+
+namespace Gameplay.Gamemode
+{
+	// Token: 0x0200073B RID: 1851
+	[Token(Token = "0x200073B")]
+	public class Elimination : GameplayMode
+	{
+		// Token: 0x0601326A RID: 78442 RVA: 0x00078CBC File Offset: 0x00076EBC
+		[Token(Token = "0x601326A")]
+		[Address(RVA = "0x1C817A0", Offset = "0x1C80BA0", VA = "0x181C817A0", Slot = "93")]
+		public virtual \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304 \u0301\u0303\u0301\u0307\u0307\u0306\u0308\u0301\u0303\u0308\u0306\u0308\u0305\u0301\u0304()
+		{
+			return \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304.Null;
+		}
+
+		// Token: 0x0601326B RID: 78443 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601326B")]
+		[Address(RVA = "0x8AA580", Offset = "0x8A9980", VA = "0x1808AA580", Slot = "94")]
+		public virtual void \u0308\u0303\u0306\u0301\u0302\u0304\u0301\u0302\u0302\u0306\u0301\u0303\u0308\u0307\u0303(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308, \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0304\u0301\u0302\u0306\u0308\u0303\u0304\u0305\u0307\u0305\u0301\u0301\u0307\u0308\u0303)
+		{
+		}
+
+		// Token: 0x0601326C RID: 78444 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601326C")]
+		[Address(RVA = "0x25AA280", Offset = "0x25A9680", VA = "0x1825AA280", Slot = "95")]
+		public virtual void \u0307\u0307\u0308\u0301\u0302\u0305\u0301\u0304\u0306\u0306\u0303\u0307\u0305\u0308\u0305(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308)
+		{
+		}
+
+		// Token: 0x17000AF4 RID: 2804
+		// (get) Token: 0x0601326D RID: 78445 RVA: 0x00078CD4 File Offset: 0x00076ED4
+		[Token(Token = "0x17000AF4")]
+		public override \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304 \u0308\u0308\u0301\u0301\u0304\u0301\u0301\u0303\u0305\u0306\u0308\u0307\u0303\u0306\u0303
+		{
+			[Token(Token = "0x601326D")]
+			[Address(RVA = "0x1C8F5A0", Offset = "0x1C8E9A0", VA = "0x181C8F5A0", Slot = "41")]
+			get
+			{
+				return \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304.Null;
+			}
+		}
+
+		// Token: 0x0601326E RID: 78446 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601326E")]
+		[Address(RVA = "0x8AA580", Offset = "0x8A9980", VA = "0x1808AA580", Slot = "96")]
+		public virtual void \u0308\u0301\u0302\u0302\u0305\u0304\u0308\u0303\u0304\u0306\u0305\u0302\u0301\u0303\u0304(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308, \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0304\u0301\u0302\u0306\u0308\u0303\u0304\u0305\u0307\u0305\u0301\u0301\u0307\u0308\u0303)
+		{
+		}
+
+		// Token: 0x0601326F RID: 78447 RVA: 0x00078CEC File Offset: 0x00076EEC
+		[Token(Token = "0x601326F")]
+		[Address(RVA = "0x25A85B0", Offset = "0x25A79B0", VA = "0x1825A85B0", Slot = "97")]
+		public virtual bool \u0302\u0306\u0306\u0306\u0307\u0303\u0305\u0306\u0308\u0303\u0302\u0308\u0307\u0301\u0301(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, out Vector3 \u0304\u0306\u0302\u0307\u0308\u0305\u0306\u0302\u0301\u0305\u0304\u0304\u0304\u0307\u0303, out float \u0308\u0308\u0306\u0302\u0302\u0307\u0305\u0307\u0307\u0307\u0307\u0303\u0308\u0307\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06013270 RID: 78448 RVA: 0x00078D04 File Offset: 0x00076F04
+		[Token(Token = "0x6013270")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "98")]
+		public virtual bool \u0308\u0301\u0307\u0307\u0302\u0306\u0302\u0306\u0302\u0302\u0307\u0308\u0305\u0306\u0304()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06013271 RID: 78449 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x6013271")]
+		[Address(RVA = "0x9359F0", Offset = "0x934DF0", VA = "0x1809359F0")]
+		public Flag[] \u0304\u0308\u0305\u0302\u0302\u0308\u0305\u0301\u0304\u0302\u0302\u0304\u0305\u0302\u0301()
+		{
+			return null;
+		}
+
+		// Token: 0x06013272 RID: 78450 RVA: 0x00078D1C File Offset: 0x00076F1C
+		[Token(Token = "0x6013272")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0305\u0301\u0308\u0302\u0305\u0303\u0302\u0308\u0305\u0307\u0305\u0306\u0306\u0306\u0304()
+		{
+			return 0;
+		}
+
+		// Token: 0x06013273 RID: 78451 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013273")]
+		[Address(RVA = "0xA30350", Offset = "0xA2F750", VA = "0x180A30350")]
+		private void \u0305\u0301\u0308\u0301\u0308\u0306\u0308\u0307\u0303\u0305\u0301\u0308\u0303\u0307\u0302(int \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x06013274 RID: 78452 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013274")]
+		[Address(RVA = "0x25A7C80", Offset = "0x25A7080", VA = "0x1825A7C80", Slot = "99")]
+		public virtual void \u0301\u0308\u0301\u0304\u0304\u0307\u0307\u0306\u0303\u0301\u0301\u0305\u0303\u0302\u0306()
+		{
+		}
+
+		// Token: 0x06013275 RID: 78453 RVA: 0x00078D34 File Offset: 0x00076F34
+		[Token(Token = "0x6013275")]
+		[Address(RVA = "0x1C817A0", Offset = "0x1C80BA0", VA = "0x181C817A0", Slot = "100")]
+		public virtual \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304 \u0306\u0307\u0306\u0305\u0306\u0301\u0305\u0304\u0302\u0307\u0305\u0302\u0307\u0301\u0304()
+		{
+			return \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304.Null;
+		}
+
+		// Token: 0x06013276 RID: 78454 RVA: 0x00078D4C File Offset: 0x00076F4C
+		[Token(Token = "0x6013276")]
+		[Address(RVA = "0x25A9C30", Offset = "0x25A9030", VA = "0x1825A9C30", Slot = "101")]
+		public virtual bool \u0306\u0305\u0306\u0302\u0308\u0304\u0307\u0302\u0302\u0304\u0304\u0306\u0308\u0304\u0304(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, out Vector3 \u0304\u0306\u0302\u0307\u0308\u0305\u0306\u0302\u0301\u0305\u0304\u0304\u0304\u0307\u0303, out float \u0308\u0308\u0306\u0302\u0302\u0307\u0305\u0307\u0307\u0307\u0307\u0303\u0308\u0307\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06013277 RID: 78455 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013277")]
+		[Address(RVA = "0x1C806D0", Offset = "0x1C7FAD0", VA = "0x181C806D0", Slot = "102")]
+		public virtual void \u0303\u0301\u0306\u0308\u0302\u0307\u0301\u0308\u0304\u0307\u0303\u0305\u0307\u0301\u0305(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x06013278 RID: 78456 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013278")]
+		[Address(RVA = "0x8AA580", Offset = "0x8A9980", VA = "0x1808AA580", Slot = "103")]
+		public virtual void \u0301\u0302\u0301\u0303\u0301\u0306\u0304\u0302\u0308\u0303\u0306\u0308\u0302\u0305\u0302(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308, \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0304\u0301\u0302\u0306\u0308\u0303\u0304\u0305\u0307\u0305\u0301\u0301\u0307\u0308\u0303)
+		{
+		}
+
+		// Token: 0x06013279 RID: 78457 RVA: 0x00078D64 File Offset: 0x00076F64
+		[Token(Token = "0x6013279")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0302\u0301\u0303\u0308\u0307\u0306\u0303\u0303\u0301\u0306\u0305\u0302\u0301\u0308\u0307()
+		{
+			return 0;
+		}
+
+		// Token: 0x0601327A RID: 78458 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601327A")]
+		[Address(RVA = "0x25A8FC0", Offset = "0x25A83C0", VA = "0x1825A8FC0", Slot = "104")]
+		public virtual void \u0304\u0302\u0307\u0308\u0307\u0302\u0306\u0307\u0308\u0301\u0301\u0305\u0301\u0308\u0302(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x0601327B RID: 78459 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601327B")]
+		[Address(RVA = "0x8AA580", Offset = "0x8A9980", VA = "0x1808AA580", Slot = "60")]
+		public override void OnGameEnded(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308, \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0304\u0301\u0302\u0306\u0308\u0303\u0304\u0305\u0307\u0305\u0301\u0301\u0307\u0308\u0303)
+		{
+		}
+
+		// Token: 0x0601327C RID: 78460 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601327C")]
+		[Address(RVA = "0x25A7BF0", Offset = "0x25A6FF0", VA = "0x1825A7BF0", Slot = "105")]
+		public virtual void \u0301\u0307\u0306\u0306\u0307\u0303\u0307\u0305\u0305\u0304\u0306\u0302\u0307\u0308\u0306()
+		{
+		}
+
+		// Token: 0x0601327D RID: 78461 RVA: 0x00078D7C File Offset: 0x00076F7C
+		[Token(Token = "0x601327D")]
+		[Address(RVA = "0x25A91B0", Offset = "0x25A85B0", VA = "0x1825A91B0", Slot = "106")]
+		public virtual bool \u0304\u0307\u0301\u0302\u0307\u0306\u0303\u0307\u0308\u0306\u0307\u0305\u0303\u0307\u0302(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x0601327E RID: 78462 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x601327E")]
+		[Address(RVA = "0x25A9140", Offset = "0x25A8540", VA = "0x1825A9140")]
+		public \u0305\u0308\u0307\u0304\u0308\u0308\u0306\u0308\u0308\u0308\u0307\u0304\u0302\u0303\u0308 \u0304\u0303\u0307\u0306\u0307\u0307\u0304\u0304\u0306\u0307\u0303\u0305\u0305\u0304\u0302()
+		{
+			return null;
+		}
+
+		// Token: 0x0601327F RID: 78463 RVA: 0x00078D94 File Offset: 0x00076F94
+		[Token(Token = "0x601327F")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0304\u0306\u0303\u0306\u0304\u0302\u0302\u0306\u0308\u0301\u0304\u0304\u0307\u0306\u0307()
+		{
+			return 0;
+		}
+
+		// Token: 0x06013280 RID: 78464 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013280")]
+		[Address(RVA = "0x1D24FD0", Offset = "0x1D243D0", VA = "0x181D24FD0")]
+		[Attribute(Name = "̆̅̇̆̈̅́̃̅̃̇̈́́̅", RVA = "0x1426C0", Offset = "0x141AC0")]
+		private void ReceiveNewScore(\u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x06013281 RID: 78465 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013281")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "107")]
+		public virtual void \u0306\u0306\u0305\u0304\u0301\u0306\u0304\u0304\u0303\u0308\u0308\u0308\u0304\u0308\u0305(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x06013282 RID: 78466 RVA: 0x00078DAC File Offset: 0x00076FAC
+		[Token(Token = "0x6013282")]
+		[Address(RVA = "0x1C8F5A0", Offset = "0x1C8E9A0", VA = "0x181C8F5A0", Slot = "108")]
+		public virtual \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304 \u0308\u0303\u0305\u0305\u0305\u0307\u0301\u0304\u0305\u0304\u0307\u0306\u0306\u0303\u0306()
+		{
+			return \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304.Null;
+		}
+
+		// Token: 0x06013283 RID: 78467 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013283")]
+		[Address(RVA = "0x1C806D0", Offset = "0x1C7FAD0", VA = "0x181C806D0", Slot = "109")]
+		public virtual void \u0301\u0308\u0301\u0303\u0305\u0303\u0301\u0301\u0302\u0304\u0307\u0302\u0303\u0304\u0304(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x06013284 RID: 78468 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013284")]
+		[Address(RVA = "0x935A00", Offset = "0x934E00", VA = "0x180935A00")]
+		private void \u0306\u0303\u0301\u0301\u0301\u0302\u0307\u0304\u0301\u0301\u0304\u0303\u0301\u0303\u0302(Flag[] \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x06013285 RID: 78469 RVA: 0x00078DC4 File Offset: 0x00076FC4
+		[Token(Token = "0x6013285")]
+		[Address(RVA = "0x25A6390", Offset = "0x25A5790", VA = "0x1825A6390", Slot = "45")]
+		public override bool OnClientAskingToSpawn(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, out Vector3 \u0304\u0306\u0302\u0307\u0308\u0305\u0306\u0302\u0301\u0305\u0304\u0304\u0304\u0307\u0303, out float \u0308\u0308\u0306\u0302\u0302\u0307\u0305\u0307\u0307\u0307\u0307\u0303\u0308\u0307\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x17000AF7 RID: 2807
+		// (get) Token: 0x06013286 RID: 78470 RVA: 0x00078DDC File Offset: 0x00076FDC
+		[Token(Token = "0x17000AF7")]
+		public override bool \u0304\u0308\u0304\u0303\u0306\u0304\u0305\u0306\u0308\u0306\u0305\u0304\u0303\u0301\u0308
+		{
+			[Token(Token = "0x6013286")]
+			[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "31")]
+			get
+			{
+				return default(bool);
+			}
+		}
+
+		// Token: 0x06013287 RID: 78471 RVA: 0x00078DF4 File Offset: 0x00076FF4
+		[Token(Token = "0x6013287")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "110")]
+		public virtual bool \u0301\u0307\u0302\u0304\u0301\u0302\u0302\u0301\u0302\u0307\u0302\u0302\u0305\u0302\u0308()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x17000AFB RID: 2811
+		// (get) Token: 0x06013293 RID: 78483 RVA: 0x00078E54 File Offset: 0x00077054
+		// (set) Token: 0x06013288 RID: 78472 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x17000AFB")]
+		public int \u0304\u0306\u0301\u0305\u0302\u0301\u0306\u0301\u0305\u0305\u0304\u0303\u0303\u0305\u0306
+		{
+			[Token(Token = "0x6013293")]
+			[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+			[Attribute(Name = "CompilerGeneratedAttribute", RVA = "0x13E5B0", Offset = "0x13D9B0")]
+			get
+			{
+				return 0;
+			}
+			[Token(Token = "0x6013288")]
+			[Address(RVA = "0xA30350", Offset = "0xA2F750", VA = "0x180A30350")]
+			[Attribute(Name = "CompilerGeneratedAttribute", RVA = "0x13E5B0", Offset = "0x13D9B0")]
+			private set
+			{
+			}
+		}
+
+		// Token: 0x06013289 RID: 78473 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013289")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "111")]
+		public virtual void \u0302\u0307\u0304\u0306\u0304\u0306\u0305\u0303\u0304\u0305\u0308\u0306\u0308\u0302\u0306(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x0601328A RID: 78474 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601328A")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "112")]
+		public virtual void \u0302\u0306\u0308\u0302\u0303\u0307\u0306\u0305\u0305\u0307\u0305\u0304\u0304\u0301\u0303(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x17000AFA RID: 2810
+		// (get) Token: 0x0601328F RID: 78479 RVA: 0x0000270E File Offset: 0x0000090E
+		// (set) Token: 0x0601328B RID: 78475 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x17000AFA")]
+		public Flag[] \u0304\u0304\u0306\u0308\u0302\u0302\u0304\u0308\u0302\u0302\u0303\u0304\u0301\u0301\u0308
+		{
+			[Token(Token = "0x601328F")]
+			[Address(RVA = "0x9359F0", Offset = "0x934DF0", VA = "0x1809359F0")]
+			[Attribute(Name = "CompilerGeneratedAttribute", RVA = "0x13E5B0", Offset = "0x13D9B0")]
+			get
+			{
+				return null;
+			}
+			[Token(Token = "0x601328B")]
+			[Address(RVA = "0x935A00", Offset = "0x934E00", VA = "0x180935A00")]
+			[Attribute(Name = "CompilerGeneratedAttribute", RVA = "0x13E5B0", Offset = "0x13D9B0")]
+			private set
+			{
+			}
+		}
+
+		// Token: 0x0601328C RID: 78476 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601328C")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "113")]
+		public virtual void \u0308\u0302\u0304\u0304\u0307\u0305\u0303\u0306\u0301\u0307\u0308\u0305\u0304\u0303\u0306(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x0601328D RID: 78477 RVA: 0x00078E0C File Offset: 0x0007700C
+		[Token(Token = "0x601328D")]
+		[Address(RVA = "0x25A9CD0", Offset = "0x25A90D0", VA = "0x1825A9CD0", Slot = "114")]
+		public virtual bool \u0306\u0307\u0304\u0301\u0307\u0305\u0306\u0305\u0308\u0308\u0301\u0301\u0302\u0302\u0308(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, out Vector3 \u0304\u0306\u0302\u0307\u0308\u0305\u0306\u0302\u0301\u0305\u0304\u0304\u0304\u0307\u0303, out float \u0308\u0308\u0306\u0302\u0302\u0307\u0305\u0307\u0307\u0307\u0307\u0303\u0308\u0307\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x0601328E RID: 78478 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601328E")]
+		[Address(RVA = "0x25A8EC0", Offset = "0x25A82C0", VA = "0x1825A8EC0", Slot = "115")]
+		public virtual void \u0303\u0305\u0308\u0305\u0308\u0308\u0305\u0302\u0308\u0308\u0308\u0308\u0303\u0303\u0302()
+		{
+		}
+
+		// Token: 0x06013290 RID: 78480 RVA: 0x00078E24 File Offset: 0x00077024
+		[Token(Token = "0x6013290")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "116")]
+		public virtual bool \u0304\u0301\u0301\u0307\u0306\u0308\u0303\u0302\u0301\u0305\u0306\u0307\u0301\u0308\u0306()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x06013291 RID: 78481 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013291")]
+		[Address(RVA = "0x25A8F80", Offset = "0x25A8380", VA = "0x1825A8F80", Slot = "117")]
+		public virtual void \u0304\u0301\u0308\u0305\u0304\u0306\u0307\u0304\u0303\u0305\u0307\u0304\u0301\u0307\u0306()
+		{
+		}
+
+		// Token: 0x06013292 RID: 78482 RVA: 0x00078E3C File Offset: 0x0007703C
+		[Token(Token = "0x6013292")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "118")]
+		public virtual bool \u0303\u0306\u0308\u0308\u0305\u0304\u0301\u0301\u0306\u0305\u0301\u0304\u0305\u0302\u0301()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x17000AF5 RID: 2805
+		// (get) Token: 0x06013294 RID: 78484 RVA: 0x00078E6C File Offset: 0x0007706C
+		[Token(Token = "0x17000AF5")]
+		public override bool \u0306\u0304\u0304\u0301\u0304\u0302\u0307\u0303\u0301\u0303\u0306\u0305\u0302\u0301\u0304
+		{
+			[Token(Token = "0x6013294")]
+			[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "82")]
+			get
+			{
+				return default(bool);
+			}
+		}
+
+		// Token: 0x06013295 RID: 78485 RVA: 0x00078E84 File Offset: 0x00077084
+		[Token(Token = "0x6013295")]
+		[Address(RVA = "0x1C80750", Offset = "0x1C7FB50", VA = "0x181C80750")]
+		public int \u0301\u0308\u0304\u0306\u0307\u0306\u0308\u0308\u0304\u0306\u0308\u0304\u0301\u0307\u0301(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+			return 0;
+		}
+
+		// Token: 0x06013296 RID: 78486 RVA: 0x00078E9C File Offset: 0x0007709C
+		[Token(Token = "0x6013296")]
+		[Address(RVA = "0x25AA120", Offset = "0x25A9520", VA = "0x1825AA120", Slot = "119")]
+		public virtual int \u0307\u0306\u0302\u0307\u0307\u0302\u0305\u0306\u0301\u0305\u0306\u0305\u0305\u0307\u0304()
+		{
+			return 0;
+		}
+
+		// Token: 0x06013297 RID: 78487 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013297")]
+		[Address(RVA = "0x25A8960", Offset = "0x25A7D60", VA = "0x1825A8960", Slot = "120")]
+		public virtual void \u0303\u0301\u0302\u0302\u0305\u0304\u0301\u0305\u0304\u0302\u0306\u0301\u0302\u0306\u0303()
+		{
+		}
+
+		// Token: 0x06013298 RID: 78488 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013298")]
+		[Address(RVA = "0x1D35360", Offset = "0x1D34760", VA = "0x181D35360", Slot = "121")]
+		public virtual void \u0301\u0307\u0303\u0306\u0301\u0303\u0304\u0303\u0306\u0302\u0306\u0308\u0303\u0306\u0308()
+		{
+		}
+
+		// Token: 0x06013299 RID: 78489 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x6013299")]
+		[Address(RVA = "0x25A8AD0", Offset = "0x25A7ED0", VA = "0x1825A8AD0", Slot = "122")]
+		public virtual void \u0303\u0303\u0307\u0307\u0303\u0302\u0301\u0303\u0307\u0307\u0307\u0307\u0305\u0301\u0303()
+		{
+		}
+
+		// Token: 0x0601329A RID: 78490 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601329A")]
+		[Address(RVA = "0x25A70C0", Offset = "0x25A64C0", VA = "0x1825A70C0", Slot = "123")]
+		public virtual void \u0301\u0303\u0301\u0303\u0301\u0306\u0306\u0304\u0305\u0302\u0305\u0303\u0302\u0303\u0306(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308)
+		{
+		}
+
+		// Token: 0x0601329B RID: 78491 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601329B")]
+		[Address(RVA = "0xA30350", Offset = "0xA2F750", VA = "0x180A30350")]
+		private void \u0307\u0304\u0304\u0304\u0307\u0301\u0304\u0303\u0304\u0303\u0308\u0301\u0303\u0308\u0307(int \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x0601329C RID: 78492 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601329C")]
+		[Address(RVA = "0x935A00", Offset = "0x934E00", VA = "0x180935A00")]
+		private void \u0303\u0308\u0308\u0307\u0305\u0305\u0308\u0306\u0307\u0308\u0306\u0302\u0306\u0305\u0308(Flag[] \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x0601329D RID: 78493 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x601329D")]
+		[Address(RVA = "0x1D24FD0", Offset = "0x1D243D0", VA = "0x181D24FD0")]
+		private void \u0302\u0307\u0308\u0303\u0304\u0307\u0303\u0307\u0306\u0303\u0306\u0307\u0301\u0306\u0308(\u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x0601329E RID: 78494 RVA: 0x00078EB4 File Offset: 0x000770B4
+		[Token(Token = "0x601329E")]
+		[Address(RVA = "0x25A89A0", Offset = "0x25A7DA0", VA = "0x1825A89A0", Slot = "124")]
+		public virtual bool \u0303\u0303\u0302\u0307\u0305\u0304\u0306\u0304\u0308\u0304\u0306\u0302\u0303\u0304\u0304(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x0601329F RID: 78495 RVA: 0x00078ECC File Offset: 0x000770CC
+		[Token(Token = "0x601329F")]
+		[Address(RVA = "0x25A9D70", Offset = "0x25A9170", VA = "0x1825A9D70", Slot = "125")]
+		public virtual int \u0306\u0308\u0306\u0308\u0304\u0302\u0305\u0307\u0308\u0305\u0307\u0301\u0307\u0305\u0307()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132A0 RID: 78496 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132A0")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "126")]
+		public virtual void \u0301\u0308\u0305\u0305\u0302\u0302\u0301\u0308\u0301\u0304\u0305\u0304\u0308\u0307\u0301(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x060132A1 RID: 78497 RVA: 0x00078EE4 File Offset: 0x000770E4
+		[Token(Token = "0x60132A1")]
+		[Address(RVA = "0x25A9F70", Offset = "0x25A9370", VA = "0x1825A9F70", Slot = "127")]
+		public virtual bool \u0307\u0303\u0308\u0302\u0304\u0305\u0302\u0303\u0308\u0305\u0304\u0307\u0302\u0302\u0305(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132A2 RID: 78498 RVA: 0x00078EFC File Offset: 0x000770FC
+		[Token(Token = "0x60132A2")]
+		[Address(RVA = "0x25AACC0", Offset = "0x25AA0C0", VA = "0x1825AACC0", Slot = "128")]
+		public virtual \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0308\u0305\u0304\u0306\u0306\u0302\u0301\u0308\u0306\u0307\u0307\u0302\u0306\u0307\u0302(out int \u0301\u0305\u0301\u0305\u0306\u0304\u0305\u0308\u0302\u0306\u0307\u0303\u0306\u0307\u0301, out int \u0307\u0302\u0308\u0301\u0308\u0305\u0303\u0301\u0303\u0303\u0302\u0306\u0308\u0308\u0302, out int \u0305\u0306\u0304\u0304\u0307\u0307\u0308\u0302\u0305\u0304\u0303\u0303\u0301\u0302\u0302)
+		{
+			return \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307.TeamA;
+		}
+
+		// Token: 0x060132A3 RID: 78499 RVA: 0x00078F14 File Offset: 0x00077114
+		[Token(Token = "0x60132A3")]
+		[Address(RVA = "0x25A7B20", Offset = "0x25A6F20", VA = "0x1825A7B20", Slot = "129")]
+		public virtual int \u0301\u0306\u0307\u0307\u0303\u0302\u0305\u0301\u0301\u0305\u0304\u0305\u0302\u0307\u0305()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132A4 RID: 78500 RVA: 0x00078F2C File Offset: 0x0007712C
+		[Token(Token = "0x60132A4")]
+		[Address(RVA = "0x1C80750", Offset = "0x1C7FB50", VA = "0x181C80750")]
+		public int \u0308\u0305\u0303\u0305\u0306\u0302\u0308\u0305\u0303\u0306\u0301\u0308\u0308\u0303\u0307(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+			return 0;
+		}
+
+		// Token: 0x060132A5 RID: 78501 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132A5")]
+		[Address(RVA = "0x1C80670", Offset = "0x1C7FA70", VA = "0x181C80670", Slot = "89")]
+		public override void OnStartGameModeClientSide()
+		{
+		}
+
+		// Token: 0x060132A6 RID: 78502 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132A6")]
+		[Address(RVA = "0x25A8710", Offset = "0x25A7B10", VA = "0x1825A8710", Slot = "130")]
+		public virtual void \u0302\u0308\u0302\u0305\u0303\u0307\u0308\u0304\u0306\u0301\u0302\u0307\u0301\u0302\u0305(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132A7 RID: 78503 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132A7")]
+		[Address(RVA = "0x1C806D0", Offset = "0x1C7FAD0", VA = "0x181C806D0", Slot = "90")]
+		public override void OnWrite(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132A8 RID: 78504 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132A8")]
+		[Address(RVA = "0x1D24FD0", Offset = "0x1D243D0", VA = "0x181D24FD0")]
+		private void \u0301\u0305\u0303\u0308\u0302\u0304\u0308\u0305\u0303\u0301\u0305\u0308\u0305\u0307\u0307(\u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132A9 RID: 78505 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132A9")]
+		[Address(RVA = "0x25A9840", Offset = "0x25A8C40", VA = "0x1825A9840", Slot = "131")]
+		public virtual void \u0305\u0308\u0304\u0303\u0305\u0303\u0304\u0308\u0302\u0305\u0302\u0306\u0302\u0301\u0306()
+		{
+		}
+
+		// Token: 0x060132AA RID: 78506 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132AA")]
+		[Address(RVA = "0x25A8CA0", Offset = "0x25A80A0", VA = "0x1825A8CA0", Slot = "132")]
+		public virtual void \u0303\u0304\u0307\u0302\u0302\u0308\u0301\u0307\u0305\u0305\u0305\u0307\u0303\u0306\u0306(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132AB RID: 78507 RVA: 0x00078F44 File Offset: 0x00077144
+		[Token(Token = "0x60132AB")]
+		[Address(RVA = "0x25A9BC0", Offset = "0x25A8FC0", VA = "0x1825A9BC0", Slot = "133")]
+		public virtual \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0306\u0305\u0303\u0308\u0305\u0302\u0302\u0306\u0307\u0307\u0304\u0302\u0307\u0305\u0306(out int \u0301\u0305\u0301\u0305\u0306\u0304\u0305\u0308\u0302\u0306\u0307\u0303\u0306\u0307\u0301, out int \u0307\u0302\u0308\u0301\u0308\u0305\u0303\u0301\u0303\u0303\u0302\u0306\u0308\u0308\u0302, out int \u0305\u0306\u0304\u0304\u0307\u0307\u0308\u0302\u0305\u0304\u0303\u0303\u0301\u0302\u0302)
+		{
+			return \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307.TeamA;
+		}
+
+		// Token: 0x060132AC RID: 78508 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132AC")]
+		[Address(RVA = "0x25AA580", Offset = "0x25A9980", VA = "0x1825AA580", Slot = "134")]
+		public virtual void \u0308\u0302\u0307\u0308\u0305\u0305\u0301\u0308\u0303\u0301\u0302\u0301\u0308\u0307\u0308()
+		{
+		}
+
+		// Token: 0x060132AD RID: 78509 RVA: 0x00078F5C File Offset: 0x0007715C
+		[Token(Token = "0x60132AD")]
+		[Address(RVA = "0x1C847C0", Offset = "0x1C83BC0", VA = "0x181C847C0", Slot = "135")]
+		public virtual \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304 \u0305\u0306\u0307\u0307\u0308\u0305\u0304\u0302\u0303\u0301\u0308\u0306\u0302\u0308\u0302()
+		{
+			return \u0306\u0304\u0308\u0308\u0303\u0308\u0304\u0308\u0308\u0306\u0303\u0305\u0302\u0306\u0304.Null;
+		}
+
+		// Token: 0x060132AE RID: 78510 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132AE")]
+		[Address(RVA = "0x25AAF00", Offset = "0x25AA300", VA = "0x1825AAF00", Slot = "136")]
+		public virtual void \u0308\u0308\u0306\u0306\u0307\u0305\u0304\u0302\u0301\u0307\u0301\u0308\u0302\u0306\u0308()
+		{
+		}
+
+		// Token: 0x060132AF RID: 78511 RVA: 0x00078F74 File Offset: 0x00077174
+		[Token(Token = "0x60132AF")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "137")]
+		public virtual bool \u0302\u0308\u0303\u0307\u0308\u0307\u0306\u0308\u0302\u0307\u0307\u0308\u0304\u0304\u0304()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132B0 RID: 78512 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132B0")]
+		[Address(RVA = "0x25A8E20", Offset = "0x25A8220", VA = "0x1825A8E20", Slot = "138")]
+		public virtual void \u0303\u0305\u0303\u0302\u0301\u0304\u0308\u0301\u0308\u0306\u0308\u0305\u0301\u0307\u0307()
+		{
+		}
+
+		// Token: 0x060132B1 RID: 78513 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x60132B1")]
+		[Address(RVA = "0x25A7AB0", Offset = "0x25A6EB0", VA = "0x1825A7AB0")]
+		public \u0305\u0308\u0307\u0304\u0308\u0308\u0306\u0308\u0308\u0308\u0307\u0304\u0302\u0303\u0308 \u0301\u0304\u0307\u0307\u0303\u0305\u0308\u0306\u0307\u0305\u0303\u0301\u0304\u0303\u0304()
+		{
+			return null;
+		}
+
+		// Token: 0x060132B2 RID: 78514 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132B2")]
+		[Address(RVA = "0xA30350", Offset = "0xA2F750", VA = "0x180A30350")]
+		private void \u0306\u0305\u0301\u0302\u0301\u0301\u0305\u0304\u0306\u0301\u0301\u0305\u0306\u0306\u0302(int \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132B3 RID: 78515 RVA: 0x00078F8C File Offset: 0x0007718C
+		[Token(Token = "0x60132B3")]
+		[Address(RVA = "0x25A6190", Offset = "0x25A5590", VA = "0x1825A6190", Slot = "35")]
+		public override int GetTimeInSeconds()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132B4 RID: 78516 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132B4")]
+		[Address(RVA = "0x8AA580", Offset = "0x8A9980", VA = "0x1808AA580", Slot = "139")]
+		public virtual void \u0304\u0302\u0304\u0305\u0302\u0302\u0306\u0302\u0302\u0306\u0304\u0304\u0304\u0307\u0303(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308, \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0304\u0301\u0302\u0306\u0308\u0303\u0304\u0305\u0307\u0305\u0301\u0301\u0307\u0308\u0303)
+		{
+		}
+
+		// Token: 0x060132B5 RID: 78517 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x60132B5")]
+		[Address(RVA = "0x9359F0", Offset = "0x934DF0", VA = "0x1809359F0")]
+		public Flag[] \u0301\u0302\u0306\u0305\u0301\u0306\u0305\u0304\u0306\u0308\u0303\u0307\u0304\u0304\u0308()
+		{
+			return null;
+		}
+
+		// Token: 0x060132B6 RID: 78518 RVA: 0x00078FA4 File Offset: 0x000771A4
+		[Token(Token = "0x60132B6")]
+		[Address(RVA = "0x8FB760", Offset = "0x8FAB60", VA = "0x1808FB760", Slot = "140")]
+		public virtual bool \u0305\u0307\u0301\u0304\u0304\u0304\u0304\u0308\u0308\u0304\u0307\u0308\u0308\u0307\u0305()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132B7 RID: 78519 RVA: 0x00078FBC File Offset: 0x000771BC
+		[Token(Token = "0x60132B7")]
+		[Address(RVA = "0x1D2F7E0", Offset = "0x1D2EBE0", VA = "0x181D2F7E0", Slot = "141")]
+		public virtual \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0302\u0306\u0305\u0305\u0301\u0302\u0308\u0302\u0308\u0302\u0307\u0305\u0304\u0302\u0301(out int \u0301\u0305\u0301\u0305\u0306\u0304\u0305\u0308\u0302\u0306\u0307\u0303\u0306\u0307\u0301, out int \u0307\u0302\u0308\u0301\u0308\u0305\u0303\u0301\u0303\u0303\u0302\u0306\u0308\u0308\u0302, out int \u0305\u0306\u0304\u0304\u0307\u0307\u0308\u0302\u0305\u0304\u0303\u0303\u0301\u0302\u0302)
+		{
+			return \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307.TeamA;
+		}
+
+		// Token: 0x060132B8 RID: 78520 RVA: 0x00078FD4 File Offset: 0x000771D4
+		[Token(Token = "0x60132B8")]
+		[Address(RVA = "0x25A7450", Offset = "0x25A6850", VA = "0x1825A7450", Slot = "142")]
+		public virtual bool \u0301\u0303\u0305\u0306\u0303\u0308\u0301\u0302\u0306\u0301\u0307\u0302\u0301\u0307\u0303(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132B9 RID: 78521 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132B9")]
+		[Address(RVA = "0x1C847F0", Offset = "0x1C83BF0", VA = "0x181C847F0")]
+		public Elimination()
+		{
+		}
+
+		// Token: 0x060132BA RID: 78522 RVA: 0x00078FEC File Offset: 0x000771EC
+		[Token(Token = "0x60132BA")]
+		[Address(RVA = "0x1D35AB0", Offset = "0x1D34EB0", VA = "0x181D35AB0", Slot = "143")]
+		public virtual \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 \u0302\u0303\u0305\u0303\u0308\u0304\u0307\u0301\u0308\u0307\u0303\u0301\u0308\u0301\u0306(out int \u0301\u0305\u0301\u0305\u0306\u0304\u0305\u0308\u0302\u0306\u0307\u0303\u0306\u0307\u0301, out int \u0307\u0302\u0308\u0301\u0308\u0305\u0303\u0301\u0303\u0303\u0302\u0306\u0308\u0308\u0302, out int \u0305\u0306\u0304\u0304\u0307\u0307\u0308\u0302\u0305\u0304\u0303\u0303\u0301\u0302\u0302)
+		{
+			return \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307.TeamA;
+		}
+
+		// Token: 0x17000AF6 RID: 2806
+		// (get) Token: 0x060132BB RID: 78523 RVA: 0x00079004 File Offset: 0x00077204
+		[Token(Token = "0x17000AF6")]
+		public override bool \u0307\u0302\u0306\u0305\u0303\u0308\u0303\u0305\u0306\u0305\u0306\u0306\u0302\u0307\u0301
+		{
+			[Token(Token = "0x60132BB")]
+			[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "51")]
+			get
+			{
+				return default(bool);
+			}
+		}
+
+		// Token: 0x060132BC RID: 78524 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132BC")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "144")]
+		public virtual void \u0304\u0301\u0302\u0302\u0303\u0302\u0302\u0308\u0302\u0307\u0308\u0306\u0306\u0303\u0302(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x060132BD RID: 78525 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132BD")]
+		[Address(RVA = "0x25A73B0", Offset = "0x25A67B0", VA = "0x1825A73B0", Slot = "145")]
+		public virtual void \u0301\u0303\u0303\u0304\u0308\u0303\u0305\u0304\u0308\u0308\u0304\u0306\u0304\u0302\u0306()
+		{
+		}
+
+		// Token: 0x060132BE RID: 78526 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132BE")]
+		[Address(RVA = "0x1D24FD0", Offset = "0x1D243D0", VA = "0x181D24FD0")]
+		private void \u0303\u0305\u0307\u0302\u0301\u0303\u0305\u0305\u0306\u0305\u0302\u0308\u0303\u0306\u0305(\u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132BF RID: 78527 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x60132BF")]
+		[Address(RVA = "0x25A9320", Offset = "0x25A8720", VA = "0x1825A9320")]
+		public \u0302\u0302\u0305\u0308\u0301\u0308\u0301\u0308\u0304\u0306\u0304\u0302\u0301\u0305\u0308 \u0305\u0301\u0305\u0301\u0305\u0303\u0303\u0304\u0306\u0305\u0307\u0307\u0307\u0305\u0307()
+		{
+			return null;
+		}
+
+		// Token: 0x060132C0 RID: 78528 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132C0")]
+		[Address(RVA = "0x25AAC30", Offset = "0x25AA030", VA = "0x1825AAC30", Slot = "146")]
+		public virtual void \u0308\u0305\u0302\u0308\u0306\u0304\u0307\u0308\u0304\u0304\u0307\u0303\u0302\u0303\u0301()
+		{
+		}
+
+		// Token: 0x060132C1 RID: 78529 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x60132C1")]
+		[Address(RVA = "0x25A84F0", Offset = "0x25A78F0", VA = "0x1825A84F0")]
+		public \u0302\u0302\u0305\u0308\u0301\u0308\u0301\u0308\u0304\u0306\u0304\u0302\u0301\u0305\u0308 \u0302\u0306\u0303\u0308\u0304\u0302\u0307\u0302\u0308\u0307\u0304\u0308\u0303\u0306\u0304()
+		{
+			return null;
+		}
+
+		// Token: 0x060132C2 RID: 78530 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132C2")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "42")]
+		public override void OnClientSideTeamChanged(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x060132C3 RID: 78531 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x60132C3")]
+		[Address(RVA = "0x25A9980", Offset = "0x25A8D80", VA = "0x1825A9980")]
+		public \u0302\u0302\u0305\u0308\u0301\u0308\u0301\u0308\u0304\u0306\u0304\u0302\u0301\u0305\u0308 \u0306\u0302\u0301\u0305\u0304\u0308\u0306\u0307\u0307\u0303\u0304\u0307\u0307\u0304\u0305()
+		{
+			return null;
+		}
+
+		// Token: 0x060132C4 RID: 78532 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132C4")]
+		[Address(RVA = "0x25A6650", Offset = "0x25A5A50", VA = "0x1825A6650", Slot = "24")]
+		public override void OnServerSideUpdate()
+		{
+		}
+
+		// Token: 0x060132C5 RID: 78533 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132C5")]
+		[Address(RVA = "0xA30350", Offset = "0xA2F750", VA = "0x180A30350")]
+		private void \u0302\u0303\u0302\u0302\u0303\u0301\u0301\u0304\u0302\u0303\u0307\u0301\u0306\u0302\u0306(int \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132C6 RID: 78534 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132C6")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "147")]
+		public virtual void \u0301\u0305\u0305\u0305\u0305\u0303\u0305\u0303\u0307\u0302\u0304\u0306\u0307\u0308\u0301(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x060132C7 RID: 78535 RVA: 0x0007901C File Offset: 0x0007721C
+		[Token(Token = "0x60132C7")]
+		[Address(RVA = "0x25A9470", Offset = "0x25A8870", VA = "0x1825A9470", Slot = "148")]
+		public virtual int \u0305\u0304\u0306\u0301\u0301\u0302\u0302\u0302\u0301\u0301\u0304\u0308\u0304\u0306\u0301()
+		{
+			return 0;
+		}
+
+		// Token: 0x17000AF9 RID: 2809
+		// (get) Token: 0x060132C8 RID: 78536 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x17000AF9")]
+		public \u0305\u0308\u0307\u0304\u0308\u0308\u0306\u0308\u0308\u0308\u0307\u0304\u0302\u0303\u0308 \u0307\u0301\u0308\u0308\u0305\u0306\u0307\u0307\u0302\u0306\u0305\u0306\u0303\u0301\u0303
+		{
+			[Token(Token = "0x60132C8")]
+			[Address(RVA = "0x25AB530", Offset = "0x25AA930", VA = "0x1825AB530")]
+			get
+			{
+				return null;
+			}
+		}
+
+		// Token: 0x060132C9 RID: 78537 RVA: 0x00079034 File Offset: 0x00077234
+		[Token(Token = "0x60132C9")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "149")]
+		public virtual bool \u0304\u0301\u0302\u0303\u0306\u0306\u0304\u0303\u0302\u0308\u0302\u0308\u0302\u0307\u0302()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132CA RID: 78538 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132CA")]
+		[Address(RVA = "0x935A00", Offset = "0x934E00", VA = "0x180935A00")]
+		private void \u0307\u0307\u0301\u0307\u0305\u0305\u0307\u0305\u0305\u0306\u0302\u0308\u0308\u0307\u0308(Flag[] \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132CB RID: 78539 RVA: 0x0007904C File Offset: 0x0007724C
+		[Token(Token = "0x60132CB")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "150")]
+		public virtual bool \u0306\u0306\u0301\u0306\u0302\u0302\u0305\u0306\u0301\u0303\u0306\u0305\u0304\u0301\u0307()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132CC RID: 78540 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132CC")]
+		[Address(RVA = "0x25A9A40", Offset = "0x25A8E40", VA = "0x1825A9A40", Slot = "151")]
+		public virtual void \u0306\u0302\u0304\u0304\u0304\u0306\u0307\u0308\u0308\u0307\u0302\u0308\u0304\u0306\u0301(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132CD RID: 78541 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132CD")]
+		[Address(RVA = "0x25A93E0", Offset = "0x25A87E0", VA = "0x1825A93E0", Slot = "152")]
+		public virtual void \u0305\u0302\u0308\u0301\u0301\u0302\u0302\u0308\u0306\u0306\u0304\u0302\u0301\u0301\u0306()
+		{
+		}
+
+		// Token: 0x060132CE RID: 78542 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132CE")]
+		[Address(RVA = "0x25A5E90", Offset = "0x25A5290", VA = "0x1825A5E90", Slot = "50")]
+		public override void Activate(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308)
+		{
+		}
+
+		// Token: 0x17000AF8 RID: 2808
+		// (get) Token: 0x060132CF RID: 78543 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x17000AF8")]
+		public \u0302\u0302\u0305\u0308\u0301\u0308\u0301\u0308\u0304\u0306\u0304\u0302\u0301\u0305\u0308 \u0304\u0307\u0306\u0304\u0305\u0302\u0308\u0301\u0303\u0302\u0307\u0301\u0301\u0306\u0305
+		{
+			[Token(Token = "0x60132CF")]
+			[Address(RVA = "0x25AB470", Offset = "0x25AA870", VA = "0x1825AB470")]
+			get
+			{
+				return null;
+			}
+		}
+
+		// Token: 0x060132D0 RID: 78544 RVA: 0x00079064 File Offset: 0x00077264
+		[Token(Token = "0x60132D0")]
+		[Address(RVA = "0x1C80750", Offset = "0x1C7FB50", VA = "0x181C80750")]
+		public int \u0304\u0305\u0303\u0305\u0308\u0307\u0303\u0301\u0301\u0308\u0308\u0301\u0306\u0304\u0301(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+			return 0;
+		}
+
+		// Token: 0x060132D1 RID: 78545 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132D1")]
+		[Address(RVA = "0x25AAD30", Offset = "0x25AA130", VA = "0x1825AAD30", Slot = "153")]
+		public virtual void \u0308\u0306\u0301\u0301\u0305\u0305\u0301\u0302\u0306\u0303\u0302\u0303\u0308\u0306\u0302()
+		{
+		}
+
+		// Token: 0x060132D2 RID: 78546 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132D2")]
+		[Address(RVA = "0x935A00", Offset = "0x934E00", VA = "0x180935A00")]
+		private void \u0305\u0304\u0302\u0307\u0307\u0304\u0301\u0302\u0304\u0302\u0305\u0303\u0306\u0305\u0308(Flag[] \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132D3 RID: 78547 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132D3")]
+		[Address(RVA = "0x935A00", Offset = "0x934E00", VA = "0x180935A00")]
+		private void \u0308\u0303\u0308\u0308\u0307\u0305\u0303\u0306\u0303\u0307\u0305\u0301\u0305\u0302\u0305(Flag[] \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132D4 RID: 78548 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132D4")]
+		[Address(RVA = "0x25A6C80", Offset = "0x25A6080", VA = "0x1825A6C80", Slot = "154")]
+		public virtual void \u0301\u0302\u0303\u0308\u0301\u0301\u0305\u0301\u0306\u0304\u0303\u0303\u0302\u0303\u0303(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308)
+		{
+		}
+
+		// Token: 0x060132D5 RID: 78549 RVA: 0x0007907C File Offset: 0x0007727C
+		[Token(Token = "0x60132D5")]
+		[Address(RVA = "0x1C80750", Offset = "0x1C7FB50", VA = "0x181C80750")]
+		public int TicketsOf(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+			return 0;
+		}
+
+		// Token: 0x060132D6 RID: 78550 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132D6")]
+		[Address(RVA = "0x25AA750", Offset = "0x25A9B50", VA = "0x1825AA750", Slot = "155")]
+		public virtual void \u0308\u0304\u0302\u0303\u0301\u0303\u0307\u0302\u0302\u0304\u0301\u0301\u0306\u0303\u0308()
+		{
+		}
+
+		// Token: 0x060132D7 RID: 78551 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132D7")]
+		[Address(RVA = "0xC49BC0", Offset = "0xC48FC0", VA = "0x180C49BC0", Slot = "156")]
+		public virtual void \u0304\u0302\u0303\u0307\u0308\u0302\u0306\u0308\u0305\u0306\u0307\u0301\u0301\u0308\u0307(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+		}
+
+		// Token: 0x060132D8 RID: 78552 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132D8")]
+		[Address(RVA = "0x25A7580", Offset = "0x25A6980", VA = "0x1825A7580", Slot = "157")]
+		public virtual void \u0301\u0304\u0307\u0304\u0301\u0302\u0302\u0308\u0305\u0302\u0301\u0302\u0307\u0302\u0306()
+		{
+		}
+
+		// Token: 0x060132D9 RID: 78553 RVA: 0x00079094 File Offset: 0x00077294
+		[Token(Token = "0x60132D9")]
+		[Address(RVA = "0x25A6260", Offset = "0x25A5660", VA = "0x1825A6260", Slot = "25")]
+		public override bool OnClientAskingToChangeTeam(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132DA RID: 78554 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132DA")]
+		[Address(RVA = "0x25AA0A0", Offset = "0x25A94A0", VA = "0x1825AA0A0", Slot = "158")]
+		public virtual void \u0307\u0305\u0307\u0306\u0303\u0301\u0308\u0306\u0304\u0304\u0306\u0306\u0302\u0308\u0303()
+		{
+		}
+
+		// Token: 0x060132DB RID: 78555 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132DB")]
+		[Address(RVA = "0x25A8F00", Offset = "0x25A8300", VA = "0x1825A8F00", Slot = "159")]
+		public virtual void \u0304\u0301\u0302\u0306\u0303\u0302\u0307\u0302\u0303\u0305\u0306\u0308\u0306\u0306\u0306()
+		{
+		}
+
+		// Token: 0x060132DC RID: 78556 RVA: 0x000790AC File Offset: 0x000772AC
+		[Token(Token = "0x60132DC")]
+		[Address(RVA = "0x25A8B70", Offset = "0x25A7F70", VA = "0x1825A8B70", Slot = "160")]
+		public virtual bool \u0303\u0303\u0307\u0307\u0305\u0301\u0306\u0305\u0303\u0301\u0301\u0307\u0305\u0301\u0306(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132DD RID: 78557 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132DD")]
+		[Address(RVA = "0xA30350", Offset = "0xA2F750", VA = "0x180A30350")]
+		private void \u0301\u0308\u0304\u0305\u0301\u0307\u0306\u0306\u0307\u0303\u0306\u0303\u0305\u0306\u0305(int \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132DE RID: 78558 RVA: 0x000790C4 File Offset: 0x000772C4
+		[Token(Token = "0x60132DE")]
+		[Address(RVA = "0x1C80750", Offset = "0x1C7FB50", VA = "0x181C80750")]
+		public int \u0307\u0303\u0308\u0306\u0301\u0301\u0302\u0305\u0304\u0305\u0304\u0307\u0303\u0302\u0308(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+			return 0;
+		}
+
+		// Token: 0x060132DF RID: 78559 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132DF")]
+		[Address(RVA = "0x25A6430", Offset = "0x25A5830", VA = "0x1825A6430", Slot = "37")]
+		public override void OnClientSideUpdate()
+		{
+		}
+
+		// Token: 0x060132E0 RID: 78560 RVA: 0x000790DC File Offset: 0x000772DC
+		[Token(Token = "0x60132E0")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0301\u0308\u0303\u0305\u0301\u0306\u0302\u0307\u0307\u0305\u0304\u0308\u0307\u0305\u0301()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132E1 RID: 78561 RVA: 0x000790F4 File Offset: 0x000772F4
+		[Token(Token = "0x60132E1")]
+		[Address(RVA = "0x25AA620", Offset = "0x25A9A20", VA = "0x1825AA620", Slot = "161")]
+		public virtual bool \u0308\u0304\u0301\u0302\u0308\u0302\u0301\u0303\u0301\u0301\u0302\u0303\u0308\u0301\u0301(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132E2 RID: 78562 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132E2")]
+		[Address(RVA = "0x25A6BE0", Offset = "0x25A5FE0", VA = "0x1825A6BE0", Slot = "18")]
+		public override void OnStartGameModeServerSide()
+		{
+		}
+
+		// Token: 0x060132E3 RID: 78563 RVA: 0x0007910C File Offset: 0x0007730C
+		[Token(Token = "0x60132E3")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0308\u0306\u0304\u0307\u0303\u0308\u0301\u0305\u0302\u0306\u0307\u0305\u0305\u0304\u0306()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132E4 RID: 78564 RVA: 0x00079124 File Offset: 0x00077324
+		[Token(Token = "0x60132E4")]
+		[Address(RVA = "0x25AADD0", Offset = "0x25AA1D0", VA = "0x1825AADD0", Slot = "162")]
+		public virtual bool \u0308\u0306\u0308\u0304\u0304\u0302\u0302\u0302\u0302\u0303\u0301\u0307\u0307\u0306\u0307(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132E5 RID: 78565 RVA: 0x0007913C File Offset: 0x0007733C
+		[Token(Token = "0x60132E5")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0302\u0305\u0302\u0302\u0307\u0304\u0304\u0306\u0301\u0303\u0303\u0306\u0307\u0306\u0305()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132E6 RID: 78566 RVA: 0x00079154 File Offset: 0x00077354
+		[Token(Token = "0x60132E6")]
+		[Address(RVA = "0x25A8890", Offset = "0x25A7C90", VA = "0x1825A8890", Slot = "163")]
+		public virtual int \u0302\u0308\u0304\u0307\u0305\u0305\u0307\u0305\u0305\u0305\u0303\u0305\u0302\u0307\u0303()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132E7 RID: 78567 RVA: 0x0007916C File Offset: 0x0007736C
+		[Token(Token = "0x60132E7")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0301\u0305\u0303\u0307\u0304\u0306\u0308\u0304\u0305\u0303\u0302\u0301\u0302\u0301\u0302()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132E8 RID: 78568 RVA: 0x00079184 File Offset: 0x00077384
+		[Token(Token = "0x60132E8")]
+		[Address(RVA = "0x902FF0", Offset = "0x9023F0", VA = "0x180902FF0", Slot = "164")]
+		public virtual bool \u0301\u0306\u0301\u0306\u0302\u0305\u0303\u0303\u0305\u0305\u0303\u0306\u0308\u0307\u0308()
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132E9 RID: 78569 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x60132E9")]
+		[Address(RVA = "0x25A8650", Offset = "0x25A7A50", VA = "0x1825A8650")]
+		public \u0302\u0302\u0305\u0308\u0301\u0308\u0301\u0308\u0304\u0306\u0304\u0302\u0301\u0305\u0308 \u0302\u0307\u0304\u0308\u0308\u0303\u0303\u0308\u0306\u0308\u0305\u0305\u0305\u0307\u0304()
+		{
+			return null;
+		}
+
+		// Token: 0x060132EA RID: 78570 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132EA")]
+		[Address(RVA = "0x25A64D0", Offset = "0x25A58D0", VA = "0x1825A64D0", Slot = "27")]
+		public override void OnRead(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132EB RID: 78571 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132EB")]
+		[Address(RVA = "0x25A92E0", Offset = "0x25A86E0", VA = "0x1825A92E0", Slot = "165")]
+		public virtual void \u0304\u0307\u0304\u0302\u0305\u0301\u0302\u0303\u0307\u0302\u0305\u0308\u0304\u0308\u0307()
+		{
+		}
+
+		// Token: 0x060132EC RID: 78572 RVA: 0x0007919C File Offset: 0x0007739C
+		[Token(Token = "0x60132EC")]
+		[Address(RVA = "0xA30120", Offset = "0xA2F520", VA = "0x180A30120")]
+		public int \u0302\u0302\u0301\u0305\u0304\u0305\u0307\u0301\u0308\u0308\u0304\u0305\u0305\u0306\u0303()
+		{
+			return 0;
+		}
+
+		// Token: 0x060132ED RID: 78573 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132ED")]
+		[Address(RVA = "0xA30350", Offset = "0xA2F750", VA = "0x180A30350")]
+		private void \u0308\u0306\u0308\u0304\u0303\u0305\u0307\u0307\u0303\u0304\u0301\u0302\u0305\u0308\u0308(int \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132EE RID: 78574 RVA: 0x000791B4 File Offset: 0x000773B4
+		[Token(Token = "0x60132EE")]
+		[Address(RVA = "0x25A8450", Offset = "0x25A7850", VA = "0x1825A8450", Slot = "166")]
+		public virtual bool \u0302\u0305\u0308\u0301\u0307\u0301\u0303\u0307\u0305\u0303\u0308\u0303\u0308\u0305\u0306(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, out Vector3 \u0304\u0306\u0302\u0307\u0308\u0305\u0306\u0302\u0301\u0305\u0304\u0304\u0304\u0307\u0303, out float \u0308\u0308\u0306\u0302\u0302\u0307\u0305\u0307\u0307\u0307\u0307\u0303\u0308\u0307\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132EF RID: 78575 RVA: 0x000791CC File Offset: 0x000773CC
+		[Token(Token = "0x60132EF")]
+		[Address(RVA = "0x25A98E0", Offset = "0x25A8CE0", VA = "0x1825A98E0", Slot = "167")]
+		public virtual bool \u0306\u0301\u0305\u0308\u0303\u0303\u0302\u0308\u0303\u0304\u0302\u0307\u0304\u0302\u0302(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, out Vector3 \u0304\u0306\u0302\u0307\u0308\u0305\u0306\u0302\u0301\u0305\u0304\u0304\u0304\u0307\u0303, out float \u0308\u0308\u0306\u0302\u0302\u0307\u0305\u0307\u0307\u0307\u0307\u0303\u0308\u0307\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132F0 RID: 78576 RVA: 0x000791E4 File Offset: 0x000773E4
+		[Token(Token = "0x60132F0")]
+		[Address(RVA = "0x1C80750", Offset = "0x1C7FB50", VA = "0x181C80750")]
+		public int \u0306\u0303\u0305\u0307\u0307\u0307\u0308\u0305\u0302\u0301\u0302\u0305\u0307\u0307\u0301(\u0307\u0304\u0304\u0305\u0301\u0307\u0303\u0302\u0308\u0304\u0302\u0307\u0308\u0304\u0307 \u0308\u0306\u0304\u0306\u0302\u0303\u0306\u0305\u0308\u0308\u0303\u0303\u0306\u0308\u0308)
+		{
+			return 0;
+		}
+
+		// Token: 0x060132F1 RID: 78577 RVA: 0x000791FC File Offset: 0x000773FC
+		[Token(Token = "0x60132F1")]
+		[Address(RVA = "0x25A7020", Offset = "0x25A6420", VA = "0x1825A7020", Slot = "168")]
+		public virtual bool \u0301\u0302\u0306\u0302\u0308\u0303\u0301\u0302\u0307\u0307\u0303\u0304\u0308\u0305\u0308(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, out Vector3 \u0304\u0306\u0302\u0307\u0308\u0305\u0306\u0302\u0301\u0305\u0304\u0304\u0304\u0307\u0303, out float \u0308\u0308\u0306\u0302\u0302\u0307\u0305\u0307\u0307\u0307\u0307\u0303\u0308\u0307\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132F2 RID: 78578 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132F2")]
+		[Address(RVA = "0x935A00", Offset = "0x934E00", VA = "0x180935A00")]
+		private void \u0307\u0303\u0302\u0307\u0301\u0302\u0306\u0308\u0305\u0302\u0305\u0302\u0307\u0302\u0302(Flag[] \u0308\u0302\u0308\u0307\u0305\u0302\u0307\u0303\u0307\u0301\u0302\u0308\u0303\u0301\u0305)
+		{
+		}
+
+		// Token: 0x060132F3 RID: 78579 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132F3")]
+		[Address(RVA = "0x25A8210", Offset = "0x25A7610", VA = "0x1825A8210", Slot = "169")]
+		public virtual void \u0302\u0302\u0308\u0306\u0307\u0306\u0306\u0302\u0304\u0302\u0306\u0306\u0303\u0307\u0303(ref \u0305\u0302\u0304\u0305\u0304\u0301\u0305\u0301\u0303\u0302\u0301\u0307\u0304\u0304\u0301 \u0305\u0308\u0307\u0302\u0304\u0302\u0305\u0304\u0306\u0304\u0301\u0301\u0307\u0303\u0307)
+		{
+		}
+
+		// Token: 0x060132F4 RID: 78580 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132F4")]
+		[Address(RVA = "0x25AA1F0", Offset = "0x25A95F0", VA = "0x1825AA1F0", Slot = "170")]
+		public virtual void \u0307\u0307\u0302\u0308\u0301\u0304\u0305\u0301\u0301\u0301\u0301\u0301\u0305\u0305\u0304()
+		{
+		}
+
+		// Token: 0x060132F5 RID: 78581 RVA: 0x0000270E File Offset: 0x0000090E
+		[Token(Token = "0x60132F5")]
+		[Address(RVA = "0x25A8390", Offset = "0x25A7790", VA = "0x1825A8390")]
+		public \u0302\u0302\u0305\u0308\u0301\u0308\u0301\u0308\u0304\u0306\u0304\u0302\u0301\u0305\u0308 \u0302\u0303\u0306\u0302\u0302\u0303\u0308\u0304\u0308\u0307\u0302\u0308\u0303\u0303\u0301()
+		{
+			return null;
+		}
+
+		// Token: 0x060132F6 RID: 78582 RVA: 0x00079214 File Offset: 0x00077414
+		[Token(Token = "0x60132F6")]
+		[Address(RVA = "0x25A9E40", Offset = "0x25A9240", VA = "0x1825A9E40", Slot = "171")]
+		public virtual bool \u0307\u0301\u0305\u0308\u0305\u0305\u0304\u0304\u0301\u0307\u0307\u0308\u0305\u0307\u0304(\u0305\u0307\u0306\u0308\u0304\u0305\u0304\u0301\u0301\u0307\u0306\u0307\u0301\u0302\u0304 \u0303\u0307\u0306\u0308\u0301\u0304\u0308\u0301\u0305\u0308\u0302\u0301\u0304\u0308\u0307, out int \u0304\u0305\u0303\u0308\u0304\u0308\u0302\u0305\u0307\u0303\u0308\u0306\u0305\u0308\u0307, out float \u0308\u0304\u0301\u0307\u0301\u0301\u0306\u0304\u0301\u0302\u0307\u0302\u0306\u0305\u0305)
+		{
+			return default(bool);
+		}
+
+		// Token: 0x060132F7 RID: 78583 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132F7")]
+		[Address(RVA = "0x25A9540", Offset = "0x25A8940", VA = "0x1825A9540", Slot = "172")]
+		public virtual void \u0305\u0305\u0305\u0304\u0305\u0306\u0307\u0307\u0304\u0305\u0305\u0302\u0301\u0302\u0308(bool \u0303\u0305\u0303\u0308\u0302\u0305\u0305\u0302\u0307\u0301\u0305\u0303\u0301\u0306\u0308)
+		{
+		}
+
+		// Token: 0x060132F8 RID: 78584 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x60132F8")]
+		[Address(RVA = "0x25A7D10", Offset = "0x25A7110", VA = "0x1825A7D10", Slot = "173")]
+		public virtual void \u0301\u0308\u0307\u0305\u0307\u0303\u0308\u0305\u0304\u0303\u0304\u0305\u0301\u0308\u0305()
+		{
+		}
+
+		// Token: 0x060132F9 RID: 78585 RVA: 0x0007922C File Offset: 0x0007742C
+		[Token(Token = "0x60132F9")]
+		[Address(RVA = "0x1C7FE70", Offset = "0x1C7F270", VA = "0x181C7FE70", Slot = "29")]
+		public override \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307 GetWonTeam(out int \u0301\u0305\u0301\u0305\u0306\u0304\u0305\u0308\u0302\u0306\u0307\u0303\u0306\u0307\u0301, out int \u0307\u0302\u0308\u0301\u0308\u0305\u0303\u0301\u0303\u0303\u0302\u0306\u0308\u0308\u0302, out int \u0305\u0306\u0304\u0304\u0307\u0307\u0308\u0302\u0305\u0304\u0303\u0303\u0301\u0302\u0302)
+		{
+			return \u0305\u0301\u0306\u0306\u0302\u0305\u0308\u0306\u0307\u0308\u0301\u0301\u0303\u0302\u0307.TeamA;
+		}
+
+		// Token: 0x04003686 RID: 13958
+		[Token(Token = "0x4003686")]
+		[FieldOffset(Offset = "0x50")]
+		[Attribute(Name = "CompilerGeneratedAttribute", RVA = "0x13E5B0", Offset = "0x13D9B0")]
+		private Flag[] <\u0303\u0304\u0307\u0304\u0308\u0305\u0301\u0304\u0301\u0301\u0301\u0308\u0306\u0306\u0308>k__BackingField;
+
+		// Token: 0x04003687 RID: 13959
+		[Token(Token = "0x4003687")]
+		[FieldOffset(Offset = "0x58")]
+		[Attribute(Name = "CompilerGeneratedAttribute", RVA = "0x13E5B0", Offset = "0x13D9B0")]
+		private int <\u0307\u0307\u0305\u0307\u0302\u0305\u0305\u0301\u0301\u0307\u0305\u0306\u0306\u0302\u0305>k__BackingField;
+
+		// Token: 0x04003688 RID: 13960
+		[Token(Token = "0x4003688")]
+		[FieldOffset(Offset = "0x60")]
+		[NonSerialized]
+		public \u0306\u0304\u0302\u0303\u0307\u0302\u0303\u0305\u0304\u0308\u0305\u0305\u0301\u0303\u0305 \u0306\u0303\u0305\u0303\u0301\u0307\u0307\u0305\u0302\u0301\u0303\u0307\u0308\u0301\u0302;
+
+		// Token: 0x04003689 RID: 13961
+		[Token(Token = "0x4003689")]
+		[FieldOffset(Offset = "0x68")]
+		private \u0301\u0306\u0308\u0303\u0307\u0308\u0306\u0307\u0302\u0303\u0303\u0306\u0308\u0305\u0306 \u0306\u0302\u0304\u0302\u0304\u0303\u0305\u0305\u0303\u0301\u0302\u0308\u0306\u0302\u0306;
+
+		// Token: 0x0400368A RID: 13962
+		[Token(Token = "0x400368A")]
+		[FieldOffset(Offset = "0x70")]
+		private float \u0302\u0304\u0302\u0308\u0306\u0306\u0308\u0305\u0307\u0307\u0308\u0304\u0304\u0302\u0307;
+
+		// Token: 0x0400368B RID: 13963
+		[Token(Token = "0x400368B")]
+		[FieldOffset(Offset = "0x74")]
+		private float \u0305\u0304\u0304\u0307\u0304\u0301\u0303\u0308\u0303\u0306\u0305\u0308\u0302\u0301\u0308;
+
+		// Token: 0x0400368C RID: 13964
+		[Token(Token = "0x400368C")]
+		[FieldOffset(Offset = "0x78")]
+		private int \u0308\u0306\u0304\u0302\u0304\u0304\u0308\u0308\u0306\u0307\u0301\u0306\u0306\u0301\u0301;
+	}
+}

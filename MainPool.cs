@@ -1,0 +1,131 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+using touching_your_mom;
+using UnityEngine;
+
+// Token: 0x02000275 RID: 629
+[Token(Token = "0x2000275")]
+public static class MainPool
+{
+	// Token: 0x06006E22 RID: 28194 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E22")]
+	[Address(RVA = "0x2F39310", Offset = "0x2F38710", VA = "0x182F39310")]
+	[Attribute(Name = "RuntimeInitializeOnLoadMethodAttribute", RVA = "0x146E90", Offset = "0x146290")]
+	private static void Init()
+	{
+	}
+
+	// Token: 0x06006E23 RID: 28195 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x6006E23")]
+	[Address(RVA = "0x2F3A310", Offset = "0x2F39710", VA = "0x182F3A310")]
+	public static GameObject \u0303\u0301\u0305\u0302\u0305\u0305\u0307\u0308\u0307\u0301\u0306\u0301\u0304\u0306\u0306(GameObject[] \u0302\u0305\u0303\u0303\u0303\u0307\u0303\u0306\u0307\u0306\u0305\u0304\u0301\u0306\u0303, [Optional] Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, [Optional] Quaternion \u0301\u0306\u0307\u0304\u0302\u0301\u0307\u0308\u0304\u0302\u0307\u0301\u0308\u0307\u0303, float \u0307\u0303\u0303\u0305\u0307\u0303\u0304\u0304\u0307\u0305\u0306\u0301\u0307\u0305\u0308 = 0f)
+	{
+		return null;
+	}
+
+	// Token: 0x06006E24 RID: 28196 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x6006E24")]
+	[Address(RVA = "0x2F3A9F0", Offset = "0x2F39DF0", VA = "0x182F3A9F0")]
+	public static GameObject \u0303\u0301\u0305\u0302\u0305\u0305\u0307\u0308\u0307\u0301\u0306\u0301\u0304\u0306\u0306(GameObject \u0302\u0305\u0306\u0301\u0306\u0302\u0301\u0301\u0304\u0307\u0305\u0304\u0304\u0306\u0306, [Optional] Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, [Optional] Quaternion \u0301\u0306\u0307\u0304\u0302\u0301\u0307\u0308\u0304\u0302\u0307\u0301\u0308\u0307\u0303, float \u0307\u0303\u0303\u0305\u0307\u0303\u0304\u0304\u0307\u0305\u0306\u0301\u0307\u0305\u0308 = 0f)
+	{
+		return null;
+	}
+
+	// Token: 0x06006E25 RID: 28197 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x6006E25")]
+	[Address(RVA = "0x2F3B4C0", Offset = "0x2F3A8C0", VA = "0x182F3B4C0")]
+	public static GameObject \u0303\u0301\u0305\u0302\u0305\u0305\u0307\u0308\u0307\u0301\u0306\u0301\u0304\u0306\u0306(int \u0303\u0302\u0307\u0301\u0303\u0303\u0307\u0304\u0305\u0308\u0306\u0306\u0301\u0306\u0308, GameObject[] \u0302\u0305\u0303\u0303\u0303\u0307\u0303\u0306\u0307\u0306\u0305\u0304\u0301\u0306\u0303, [Optional] Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, [Optional] Quaternion \u0301\u0306\u0307\u0304\u0302\u0301\u0307\u0308\u0304\u0302\u0307\u0301\u0308\u0307\u0303, float \u0307\u0303\u0303\u0305\u0307\u0303\u0304\u0304\u0307\u0305\u0306\u0301\u0307\u0305\u0308 = 0f)
+	{
+		return null;
+	}
+
+	// Token: 0x06006E26 RID: 28198 RVA: 0x0000270E File Offset: 0x0000090E
+	[Token(Token = "0x6006E26")]
+	[Address(RVA = "0x2F3AF60", Offset = "0x2F3A360", VA = "0x182F3AF60")]
+	public static GameObject \u0303\u0301\u0305\u0302\u0305\u0305\u0307\u0308\u0307\u0301\u0306\u0301\u0304\u0306\u0306(int \u0303\u0302\u0307\u0301\u0303\u0303\u0307\u0304\u0305\u0308\u0306\u0306\u0301\u0306\u0308, GameObject \u0302\u0305\u0306\u0301\u0306\u0302\u0301\u0301\u0304\u0307\u0305\u0304\u0304\u0306\u0306, [Optional] Vector3 \u0303\u0308\u0308\u0308\u0305\u0304\u0308\u0305\u0308\u0302\u0301\u0306\u0307\u0308\u0301, [Optional] Quaternion \u0301\u0306\u0307\u0304\u0302\u0301\u0307\u0308\u0304\u0302\u0307\u0301\u0308\u0307\u0303, float \u0307\u0303\u0303\u0305\u0307\u0303\u0304\u0304\u0307\u0305\u0306\u0301\u0307\u0305\u0308 = 0f)
+	{
+		return null;
+	}
+
+	// Token: 0x06006E27 RID: 28199 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E27")]
+	[Address(RVA = "0x2F3BD60", Offset = "0x2F3B160", VA = "0x182F3BD60")]
+	public static void \u0304\u0306\u0305\u0301\u0308\u0302\u0303\u0308\u0304\u0308\u0302\u0301\u0307\u0307\u0304(GameObject \u0308\u0302\u0306\u0308\u0308\u0307\u0302\u0307\u0303\u0301\u0305\u0305\u0301\u0306\u0302, bool \u0307\u0307\u0307\u0305\u0303\u0306\u0305\u0304\u0303\u0304\u0306\u0306\u0302\u0301\u0303 = false)
+	{
+	}
+
+	// Token: 0x06006E28 RID: 28200 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E28")]
+	[Address(RVA = "0x2F3BE60", Offset = "0x2F3B260", VA = "0x182F3BE60")]
+	public static void \u0304\u0306\u0305\u0301\u0308\u0302\u0303\u0308\u0304\u0308\u0302\u0301\u0307\u0307\u0304(\u0304\u0301\u0301\u0304\u0304\u0308\u0308\u0303\u0301\u0306\u0301\u0302\u0306\u0308\u0307 \u0308\u0301\u0302\u0306\u0301\u0303\u0306\u0303\u0302\u0306\u0306\u0307\u0304\u0307\u0307, bool \u0307\u0307\u0307\u0305\u0303\u0306\u0305\u0304\u0303\u0304\u0306\u0306\u0302\u0301\u0303 = false)
+	{
+	}
+
+	// Token: 0x06006E29 RID: 28201 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E29")]
+	[Address(RVA = "0x2F39940", Offset = "0x2F38D40", VA = "0x182F39940")]
+	public static void \u0301\u0303\u0304\u0308\u0307\u0303\u0306\u0302\u0305\u0305\u0308\u0301\u0301\u0303\u0301(GameObject \u0302\u0305\u0306\u0301\u0306\u0302\u0301\u0301\u0304\u0307\u0305\u0304\u0304\u0306\u0306)
+	{
+	}
+
+	// Token: 0x06006E2A RID: 28202 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E2A")]
+	[Address(RVA = "0x2F39520", Offset = "0x2F38920", VA = "0x182F39520")]
+	public static void \u0301\u0303\u0304\u0308\u0307\u0303\u0306\u0302\u0305\u0305\u0308\u0301\u0301\u0303\u0301(GameObject[] \u0302\u0305\u0303\u0303\u0303\u0307\u0303\u0306\u0307\u0306\u0305\u0304\u0301\u0306\u0303)
+	{
+	}
+
+	// Token: 0x06006E2B RID: 28203 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E2B")]
+	[Address(RVA = "0x2F39CC0", Offset = "0x2F390C0", VA = "0x182F39CC0")]
+	public static void \u0301\u0303\u0307\u0302\u0306\u0301\u0304\u0301\u0304\u0303\u0304\u0301\u0303\u0302\u0302(GameObject \u0302\u0305\u0306\u0301\u0306\u0302\u0301\u0301\u0304\u0307\u0305\u0304\u0304\u0306\u0306, int \u0302\u0303\u0307\u0308\u0308\u0307\u0306\u0308\u0304\u0301\u0302\u0305\u0307\u0303\u0307)
+	{
+	}
+
+	// Token: 0x06006E2C RID: 28204 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E2C")]
+	[Address(RVA = "0x2F3BB70", Offset = "0x2F3AF70", VA = "0x182F3BB70")]
+	public static void \u0304\u0306\u0301\u0304\u0305\u0304\u0307\u0306\u0305\u0303\u0307\u0302\u0301\u0304\u0308(GameObject \u0302\u0305\u0306\u0301\u0306\u0302\u0301\u0301\u0304\u0307\u0305\u0304\u0304\u0306\u0306)
+	{
+	}
+
+	// Token: 0x06006E2D RID: 28205 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E2D")]
+	[Address(RVA = "0x2F3A060", Offset = "0x2F39460", VA = "0x182F3A060")]
+	public static void \u0302\u0304\u0303\u0305\u0305\u0306\u0306\u0308\u0306\u0305\u0304\u0306\u0305\u0302\u0306(\u0304\u0301\u0301\u0304\u0304\u0308\u0308\u0303\u0301\u0306\u0301\u0302\u0306\u0308\u0307 \u0308\u0301\u0302\u0306\u0301\u0303\u0306\u0303\u0302\u0306\u0306\u0307\u0304\u0307\u0307, bool \u0307\u0301\u0301\u0301\u0307\u0304\u0302\u0304\u0303\u0304\u0305\u0304\u0308\u0303\u0308 = false)
+	{
+	}
+
+	// Token: 0x06006E2E RID: 28206 RVA: 0x00002066 File Offset: 0x00000266
+	[Token(Token = "0x6006E2E")]
+	[Address(RVA = "0x2F3C230", Offset = "0x2F3B630", VA = "0x182F3C230")]
+	public static void \u0305\u0301\u0303\u0307\u0303\u0302\u0306\u0302\u0306\u0305\u0304\u0302\u0304\u0301\u0301()
+	{
+	}
+
+	// Token: 0x04000F97 RID: 3991
+	[Token(Token = "0x4000F97")]
+	[touching_your_mom.FieldOffset(Offset = "0x0")]
+	public static Transform \u0302\u0301\u0301\u0308\u0307\u0304\u0304\u0305\u0308\u0306\u0308\u0307\u0303\u0303\u0307;
+
+	// Token: 0x04000F98 RID: 3992
+	[Token(Token = "0x4000F98")]
+	[touching_your_mom.FieldOffset(Offset = "0x8")]
+	public static Transform \u0302\u0303\u0304\u0305\u0303\u0306\u0302\u0301\u0305\u0304\u0307\u0301\u0307\u0304\u0306;
+
+	// Token: 0x04000F99 RID: 3993
+	[Token(Token = "0x4000F99")]
+	[touching_your_mom.FieldOffset(Offset = "0x10")]
+	private static Dictionary<int, Queue<\u0304\u0301\u0301\u0304\u0304\u0308\u0308\u0303\u0301\u0306\u0301\u0302\u0306\u0308\u0307>> \u0301\u0301\u0305\u0306\u0302\u0308\u0306\u0304\u0304\u0301\u0303\u0305\u0305\u0308\u0308;
+
+	// Token: 0x04000F9A RID: 3994
+	[Token(Token = "0x4000F9A")]
+	[touching_your_mom.FieldOffset(Offset = "0x18")]
+	private static Dictionary<int, Queue<\u0304\u0301\u0301\u0304\u0304\u0308\u0308\u0303\u0301\u0306\u0301\u0302\u0306\u0308\u0307>> \u0303\u0307\u0304\u0304\u0307\u0303\u0304\u0302\u0301\u0308\u0303\u0301\u0302\u0305\u0308;
+
+	// Token: 0x04000F9B RID: 3995
+	[Token(Token = "0x4000F9B")]
+	[touching_your_mom.FieldOffset(Offset = "0x20")]
+	private static HashSet<\u0304\u0301\u0301\u0304\u0304\u0308\u0308\u0303\u0301\u0306\u0301\u0302\u0306\u0308\u0307> \u0307\u0301\u0301\u0306\u0303\u0307\u0308\u0304\u0305\u0304\u0304\u0307\u0306\u0305\u0308;
+}

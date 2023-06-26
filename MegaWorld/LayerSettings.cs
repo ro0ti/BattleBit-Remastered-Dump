@@ -1,0 +1,192 @@
+﻿using System;
+using touching_your_mom;
+using UnityEngine;
+
+namespace MegaWorld
+{
+	// Token: 0x020005C5 RID: 1477
+	[Token(Token = "0x20005C5")]
+	[Serializable]
+	public class LayerSettings
+	{
+		// Token: 0x0600FBF0 RID: 64496 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF0")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0307\u0301\u0303\u0307\u0307\u0308\u0301\u0306\u0304\u0302\u0306\u0308\u0306\u0304\u0305(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF1 RID: 64497 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF1")]
+		[Address(RVA = "0x36A4650", Offset = "0x36A3A50", VA = "0x1836A4650")]
+		public LayerSettings(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF2 RID: 64498 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF2")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0307\u0301\u0301\u0307\u0303\u0306\u0304\u0301\u0302\u0303\u0306\u0301\u0306\u0306\u0307(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF3 RID: 64499 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF3")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0306\u0301\u0306\u0308\u0303\u0305\u0305\u0307\u0307\u0305\u0306\u0304\u0305\u0305\u0301(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF4 RID: 64500 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF4")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0306\u0305\u0304\u0302\u0304\u0302\u0301\u0301\u0303\u0306\u0308\u0304\u0305\u0302\u0305(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF5 RID: 64501 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF5")]
+		[Address(RVA = "0x36A4620", Offset = "0x36A3A20", VA = "0x1836A4620")]
+		public LayerSettings()
+		{
+		}
+
+		// Token: 0x0600FBF6 RID: 64502 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF6")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0305\u0304\u0306\u0305\u0305\u0308\u0303\u0302\u0303\u0308\u0308\u0301\u0305\u0305\u0302(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF7 RID: 64503 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF7")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0306\u0302\u0304\u0302\u0308\u0306\u0304\u0306\u0305\u0307\u0303\u0302\u0305\u0303\u0304(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF8 RID: 64504 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF8")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0308\u0303\u0302\u0302\u0303\u0301\u0301\u0301\u0302\u0307\u0304\u0301\u0301\u0307\u0306(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBF9 RID: 64505 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBF9")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0304\u0302\u0305\u0306\u0302\u0303\u0307\u0301\u0301\u0306\u0303\u0301\u0303\u0308\u0305(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBFA RID: 64506 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBFA")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0308\u0308\u0302\u0304\u0302\u0306\u0307\u0301\u0306\u0307\u0301\u0301\u0307\u0306\u0302(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBFB RID: 64507 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBFB")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0306\u0301\u0308\u0301\u0304\u0303\u0304\u0302\u0306\u0303\u0307\u0303\u0307\u0303\u0308(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBFC RID: 64508 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBFC")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0308\u0301\u0302\u0307\u0308\u0306\u0307\u0306\u0304\u0306\u0307\u0305\u0301\u0301\u0306(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBFD RID: 64509 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBFD")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0307\u0306\u0301\u0307\u0304\u0302\u0304\u0307\u0302\u0308\u0305\u0302\u0307\u0307\u0308(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBFE RID: 64510 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBFE")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0307\u0307\u0306\u0304\u0301\u0308\u0301\u0307\u0306\u0303\u0308\u0304\u0305\u0306\u0301(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FBFF RID: 64511 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FBFF")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0306\u0308\u0307\u0308\u0305\u0308\u0306\u0301\u0304\u0301\u0308\u0301\u0302\u0305\u0307(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC00 RID: 64512 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC00")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0302\u0307\u0307\u0308\u0302\u0306\u0302\u0307\u0307\u0307\u0303\u0306\u0308\u0304\u0305(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC01 RID: 64513 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC01")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0307\u0303\u0303\u0308\u0303\u0305\u0302\u0307\u0305\u0302\u0303\u0304\u0308\u0306\u0303(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC02 RID: 64514 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC02")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0303\u0301\u0304\u0306\u0306\u0308\u0304\u0304\u0308\u0301\u0302\u0308\u0306\u0308\u0301(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC03 RID: 64515 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC03")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0304\u0307\u0306\u0305\u0303\u0303\u0301\u0303\u0308\u0301\u0302\u0302\u0302\u0304\u0302(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC04 RID: 64516 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC04")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0305\u0302\u0301\u0303\u0305\u0306\u0301\u0308\u0304\u0301\u0302\u0307\u0307\u0303\u0306(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC05 RID: 64517 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC05")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0307\u0308\u0308\u0302\u0302\u0303\u0307\u0305\u0301\u0308\u0304\u0304\u0303\u0308\u0302(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC06 RID: 64518 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC06")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0303\u0301\u0308\u0301\u0304\u0305\u0305\u0303\u0308\u0307\u0308\u0302\u0302\u0304\u0301(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC07 RID: 64519 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC07")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0304\u0301\u0307\u0306\u0306\u0303\u0301\u0302\u0304\u0307\u0302\u0301\u0308\u0307\u0308(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x0600FC08 RID: 64520 RVA: 0x00002066 File Offset: 0x00000266
+		[Token(Token = "0x600FC08")]
+		[Address(RVA = "0x36A4600", Offset = "0x36A3A00", VA = "0x1836A4600")]
+		public void \u0304\u0305\u0306\u0301\u0303\u0306\u0302\u0307\u0304\u0304\u0305\u0302\u0308\u0304\u0303(LayerSettings \u0301\u0304\u0302\u0308\u0301\u0304\u0304\u0303\u0308\u0301\u0302\u0308\u0306\u0304\u0305)
+		{
+		}
+
+		// Token: 0x04002B42 RID: 11074
+		[Token(Token = "0x4002B42")]
+		[FieldOffset(Offset = "0x10")]
+		public LayerMask paintLayers;
+	}
+}
